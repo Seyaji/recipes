@@ -1,0 +1,32 @@
+
+  {
+    "id": "c05-rcu-0031",
+    "title": "Roman Tomato and Mozzarella Pasta",
+    "titleAlternative": "Pasta alla Checca",
+    "yield": "Makes 4 to 6 servings",
+    "introduction": "This Roman Tomato and Mozzarella Pasta is a refreshing and flavorful dish perfect for a summer day. The combination of creamy fresh mozzarella, ripe tomatoes, and aromatic basil creates a delightful and satisfying meal. Originating from Rome, this pasta is simple yet full of flavor, making it an ideal choice for pasta lovers.",
+    "ingredients": [
+      "3 medium size ripe tomatoes",
+      "1/4 cup extra-virgin olive oil",
+      "1 small garlic clove, finely chopped",
+      "Salt and freshly ground black pepper",
+      "20 basil leaves",
+      "1 pound tubetti or ditalini",
+      "8 ounces fresh mozzarella, cut into small dice"
+    ],
+    "instructions": [
+      {
+        "step": 1,
+        "description": "Cut the tomatoes in half and remove the cores. Squeeze out the tomato seeds. Chop the tomatoes and place them in a bowl large enough to hold all of the ingredients."
+      },
+      {
+        "step": 2,
+        "description": "Stir in the oil, garlic, and salt and pepper to taste. Stack the basil leaves and cut them into thin ribbons. Stir the basil into the tomatoes. This sauce can be made ahead of time and kept at room temperature up to 2 hours."
+      },
+      {
+        "step": 3,
+        "description": "Bring at least 4 quarts of water to a boil in a large pot. Add 2 tablespoons of salt, then the pasta. Stir well. Cook over high heat, stirring frequently, until the pasta is al dente, tender yet still firm to the bite. Drain the pasta and toss it with the sauce. Add the mozzarella and toss again. Serve immediately."
+      }
+    ],
+    "variations": []
+  }

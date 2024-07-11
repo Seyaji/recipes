@@ -1,0 +1,34 @@
+
+    {
+        "id": "c04-rcu-0024",
+        "title": "Béchamel Sauce",
+        "titleAlternative": "Salsa Balsamella",
+        "yield": "Makes about 4 cups",
+        "introduction": "This creamy white sauce, also known as Salsa Balsamella, is a versatile addition to various dishes. Often combined with cheese, it perfectly complements baked pasta or vegetables. Its simple ingredients and straightforward preparation make it a staple in many kitchens.",
+        "ingredients": [
+            "1 quart milk",
+            "6 tablespoons unsalted butter",
+            "5 tablespoons flour",
+            "Salt and freshly ground black pepper to taste",
+            "Pinch of freshly grated nutmeg"
+        ],
+        "instructions": [
+            {
+                "step": 1,
+                "direction": "Heat the milk in a medium saucepan until small bubbles form around the edge."
+            },
+            {
+                "step": 2,
+                "direction": "Melt the butter in a large saucepan over medium-low heat. Add the flour and stir well. Cook for 2 minutes."
+            },
+            {
+                "step": 3,
+                "direction": "Slowly begin adding the milk in a thin stream, stirring it in with a wire whisk. At first, the sauce will become thick and lumpy, but it will gradually loosen up and become smooth as you stir in the remainder."
+            },
+            {
+                "step": 4,
+                "direction": "When all of the milk has been added, stir in the salt, pepper, and nutmeg. Raise the heat to medium and stir constantly until the mixture comes to a simmer. Cook for 2 minutes more. Remove from the heat. This sauce can be made up to 2 days before using. Pour it into a container, place a piece of plastic wrap directly against the surface, and seal tightly to prevent a skin from forming. Refrigerate. Reheat over low heat before using, adding a little more milk if it is too thick."
+            }
+        ],
+        "variations": []
+    }

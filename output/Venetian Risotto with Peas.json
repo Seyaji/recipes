@@ -1,0 +1,64 @@
+{
+  "id": "c06-rcu-0011",
+  "title": "Venetian Risotto with Peas",
+  "titleAlternative": "Risi e Bisi",
+  "yield": "Makes 6 servings",
+  "introduction": "Venetian Risotto with Peas, or Risi e Bisi, is a classic dish enjoyed in Venice to herald the arrival of spring with its fresh vegetables. Authentic Venetian risotto is known for its slightly soupy texture, achieved by adding extra broth or water towards the end of cooking. This creamy and savory risotto is beautifully complemented by the sweetness of peas and the sharpness of Parmigiano-Reggiano, making it a beloved dish that highlights the simplicity and elegance of Italian cuisine.",
+  "ingredients": [
+    {
+      "quantity": "6 cups",
+      "ingredient": "Chicken Broth"
+    },
+    {
+      "quantity": "1 medium",
+      "ingredient": "Yellow Onion, finely chopped"
+    },
+    {
+      "quantity": "4 tablespoons",
+      "ingredient": "Olive Oil"
+    },
+    {
+      "quantity": "2 cups",
+      "ingredient": "Medium-grain Rice (Arborio, Carnaroli, or Vialone Nano)"
+    },
+    {
+      "quantity": "to taste",
+      "ingredient": "Salt and freshly ground Black Pepper"
+    },
+    {
+      "quantity": "2 cups",
+      "ingredient": "Shelled Tender Peas or frozen peas, partially thawed"
+    },
+    {
+      "quantity": "2 tablespoons",
+      "ingredient": "Finely chopped Flat-leaf Parsley"
+    },
+    {
+      "quantity": "½ cup",
+      "ingredient": "Freshly grated Parmigiano-Reggiano"
+    },
+    {
+      "quantity": "2 tablespoons",
+      "ingredient": "Unsalted Butter"
+    }
+  ],
+  "instructions": [
+    {
+      "step": "1",
+      "text": "Prepare the broth, if necessary. Bring the broth to a simmer over medium heat, then lower the heat so that it just keeps the broth hot. Pour the oil into a wide heavy saucepan. Add the onion and cook over medium heat until the onion is tender and golden, about 10 minutes."
+    },
+    {
+      "step": "2",
+      "text": "Add the rice and cook, stirring with a wooden spoon, until hot, about 2 minutes. Add about ½ cup of the hot broth and stir until it is absorbed. Continue adding broth ½ cup at a time, stirring after each addition. Adjust the heat so that the liquid simmers rapidly but the rice does not stick to the pan. Halfway through the cooking, stir in salt and pepper to taste."
+    },
+    {
+      "step": "3",
+      "text": "Add the peas and parsley. Continue adding the liquid and stirring. The rice should be tender yet firm to the bite, and the risotto should have a loose, somewhat soupy consistency. Use hot water if you run out of broth. Cooking time will be 18 to 20 minutes."
+    },
+    {
+      "step": "4",
+      "text": "When the rice is tender yet still firm, remove the pot from the heat. Add the cheese and butter and stir well. Serve immediately."
+    }
+  ],
+  "variations": []
+}

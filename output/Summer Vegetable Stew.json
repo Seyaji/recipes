@@ -1,0 +1,38 @@
+{
+  "id": "c11-rcu-0156",
+  "title": "Summer Vegetable Stew",
+  "titleAlternative": "Ciambotta",
+  "yield": "Serves 4 to 6",
+  "introduction": "Discover the vibrant flavors of summer with this classic ciambotta, a southern Italian vegetable stew. Combining eggplant, peppers, potatoes, and tomatoes, this dish is wonderfully versatile as a side, main dish, or even a sandwich filling. Let's take a trip to a sunlit farmer's market with every bite.",
+  "ingredients": [
+    "1 medium onion",
+    "4 plum tomatoes",
+    "2 all-purpose potatoes, peeled",
+    "1 medium eggplant",
+    "1 medium red bell pepper",
+    "1 medium yellow bell pepper",
+    "Salt and freshly ground black pepper",
+    "3 tablespoons olive oil",
+    "1/2 cup torn fresh basil leaves or freshly grated Parmigiano-Reggiano or Pecorino Romano (optional)"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "description": "Trim the vegetables and cut them into bite-size pieces. In a large skillet, cook the onion in the oil over medium-low heat until tender, about 5 to 8 minutes."
+    },
+    {
+      "step": 2,
+      "description": "Add the tomatoes, potatoes, eggplant, and peppers. Add salt and pepper to taste. Cover and cook, stirring occasionally, about 40 minutes, or until all the vegetables are tender and most of the liquid has evaporated. If the mixture becomes too dry, add a couple of tablespoons of water. If there is too much liquid, uncover and cook 5 minutes more."
+    },
+    {
+      "step": 3,
+      "description": "Serve warm or at room temperature, plain or garnished with basil or cheese."
+    }
+  ],
+  "variations": [
+    {
+      "title": "Ciambotta with Eggs",
+      "description": "When the vegetables are ready, beat 4 to 6 eggs with salt until blended. Pour the eggs over the vegetables. Do not stir. Cover the pan. Cook until the eggs are set, about 3 minutes. Serve warm or at room temperature."
+    }
+  ]
+}

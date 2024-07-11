@@ -1,0 +1,35 @@
+{
+  "id": "c02-rcu-0025",
+  "title": "Warm Lentil Salad",
+  "titleAlternative": "Insalata di Lenticchie",
+  "yield": "Makes 8 servings",
+  "introduction": "This warm lentil salad is a hearty and flavorful dish that pairs wonderfully with cotechino or other sausages. For a unique twist, try it with grilled salmon. Using tiny green lentils from Umbria or French le Puy lentils will retain their shape better, adding to the dish's delightful texture.",
+  "ingredients": [
+    "1 pound lentils, rinsed and picked over",
+    "2 unpeeled garlic cloves",
+    "3 sprigs fresh thyme",
+    "1 bay leaf",
+    "Salt",
+    "1/3 cup extra-virgin olive oil",
+    "3 tablespoons red wine vinegar",
+    "1 teaspoon Dijon mustard",
+    "Freshly ground black pepper",
+    "1 small red onion, finely chopped",
+    "1/4 cup chopped fresh flat-leaf parsley"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "description": "Place the lentils in a large pot with cold water to cover by 1 inch. Add the garlic and herbs. Bring the liquid to a simmer and cook 35 minutes. Add salt to taste and cook until the lentils are tender, about 10 minutes more."
+    },
+    {
+      "step": 2,
+      "description": "Drain the lentils and discard the herbs and garlic."
+    },
+    {
+      "step": 3,
+      "description": "In a small bowl, whisk together the oil, vinegar, mustard, and salt and pepper to taste. Add the lentils, onion, and parsley. Mix well. Serve warm or at room temperature."
+    }
+  ],
+  "variations": []
+}

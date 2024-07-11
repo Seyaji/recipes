@@ -1,0 +1,31 @@
+{
+  "id": "c14-rcu-0085",
+  "title": "Pastry Cream",
+  "titleAlternative": "Crema Pasticcieria",
+  "yield": "Makes about 5 cups",
+  "introduction": "Pastry cream, or Crema Pasticcieria, is a versatile and luscious base used in many Italian desserts such as Italian Trifle (Zuppa Inglese). It's a rich, custard-like cream that can be flavored with lemon or orange zest, or even dried or candied fruits. Perfect for filling cream puffs and napoleons, serving as pudding, or spooning over fruit or cake, this delightful cream is both delicious and adaptable.",
+  "ingredients": [
+    "1 quart milk",
+    "1/2 cup sugar",
+    "6 large egg yolks",
+    "1/2 cup all-purpose flour",
+    "2 teaspoons pure vanilla extract"
+  ],
+  "instructions": [
+    "1. In a heavy saucepan, bring 3 cups of the milk and the sugar to a simmer over medium heat, stirring to dissolve the sugar. Remove from the heat.",
+    "2. In a large heatproof bowl, whisk the egg yolks and the remaining 1 cup milk until blended. Place the flour in a fine-mesh strainer. Shake it over the egg yolks. Whisk until smooth. Beat in the hot milk a little at a time.",
+    "3. When all of the milk has been added, transfer the mixture to the saucepan and return it to the heat. Cook over medium heat, stirring constantly with a wooden spoon, until the mixture begins to boil. Reduce the heat and cook 30 seconds more. Remove the pan from the heat and stir in the vanilla.",
+    "4. Transfer to a bowl. Cover with plastic wrap, pressing the plastic against the surface of the cream. Chill up to 24 hours."
+  ],
+  "variations": [
+    {
+      "description": "Chocolate and Vanilla Pastry Creams",
+      "steps": [
+        "Make Pastry Cream through step 3.",
+        "Divide the cream between two bowls.",
+        "Add 4 ounces chopped semisweet chocolate to one bowl and let stand 1 minute until softened. Stir well.",
+        "Cover both creams with plastic wrap, pressing the plastic against the surface of the cream, and chill."
+      ]
+    }
+  ]
+}

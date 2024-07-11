@@ -1,0 +1,33 @@
+{
+  "id": "c11-rcu-0014",
+  "title": "Asparagus with Parmesan and Butter",
+  "titleAlternative": "Asparagi alla Parmigiana",
+  "yield": "Makes 4 to 6 servings",
+  "introduction": "Asparagus with Parmesan and Butter, also known as Asparagi alla Parmigiana, is a delightful dish that showcases the natural flavors of asparagus enhanced by a rich, cheesy topping. This classic preparation method is cherished in many regions, especially when using thick, white asparagus which holds up beautifully to this baking method.",
+  "ingredients": [
+    "1 pound thick asparagus",
+    "Salt",
+    "2 tablespoons unsalted butter",
+    "Freshly ground black pepper",
+    "1/2 cup freshly grated Parmigiano-Reggiano"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "description": "Trim off the base of the asparagus at the point where the stem turns from white to green. Bring about 2 inches of water to a boil in a large skillet. Add the asparagus and salt to taste. Cook until the asparagus bend slightly when you lift them from the stem end, 4 to 8 minutes. Cooking time will depend on the thickness of the asparagus. Remove the asparagus with tongs. Drain them on paper towels and pat them dry."
+    },
+    {
+      "step": 2,
+      "description": "Place a rack in the center of the oven. Preheat the oven to 450°F. Butter a large baking dish."
+    },
+    {
+      "step": 3,
+      "description": "Arrange the asparagus side by side in the baking dish, overlapping them slightly. Dot with butter and sprinkle with pepper and the cheese."
+    },
+    {
+      "step": 4,
+      "description": "Bake 15 minutes or until the cheese is melted and golden. Serve immediately."
+    }
+  ],
+  "variations": []
+}

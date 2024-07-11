@@ -1,0 +1,36 @@
+{
+  "id": "c01-rcu-0041",
+  "title": "Olive Oil Dip",
+  "titleAlternative": "Pinzimonio",
+  "yield": "Makes 4 servings",
+  "introduction": "Pinzimonio is a delightful Italian appetizer that consists of fresh vegetables paired with high-quality extra-virgin olive oil. This simple yet flavorful dip allows the natural taste of the vegetables to shine through, accented by the richness of the olive oil and a touch of salt and pepper. It's a testament to Italian culinary philosophy, valuing fresh ingredients and straightforward preparation.",
+  "ingredients": [
+    {
+      "quantity": "1 cup",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "quantity": "",
+      "item": "Fine sea salt and freshly ground black pepper"
+    },
+    {
+      "quantity": "",
+      "item": "Assorted raw vegetables cut into strips, such as carrots, celery, green onions, peppers, zucchini, and radishes"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "description": "Divide the olive oil among four small cups."
+    },
+    {
+      "step": 2,
+      "description": "Each diner should add salt and pepper to taste."
+    },
+    {
+      "step": 3,
+      "description": "Serve with the raw vegetables."
+    }
+  ],
+  "variations": []
+}

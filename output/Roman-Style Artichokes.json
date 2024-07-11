@@ -1,0 +1,32 @@
+
+  {
+    "id": "c11-rcu-0002",
+    "title": "Roman-Style Artichokes",
+    "titleAlternative": "Carciofi alla Romana",
+    "yield": "Makes 8 servings",
+    "introduction": "Roman-Style Artichokes are a beautiful way to enjoy the fresh, robust artichokes found in the markets of Rome. These artichokes are cooked stem-side up, making a visually appealing dish that's perfect for any dinner table. With a stuffing of garlic, fresh herbs, and a hint of white wine, these tender artichokes bring a taste of Roman spring and fall right to your home.",
+    "ingredients": [
+      "2 large garlic cloves, finely chopped",
+      "2 tablespoons chopped fresh flat-leaf parsley",
+      "1 tablespoon chopped fresh mint or 1/2 teaspoon dried marjoram",
+      "Salt and freshly ground black pepper",
+      "1/4 cup olive oil",
+      "8 medium artichokes, prepared for stuffing",
+      "1/2 cup dry white wine"
+    ],
+    "instructions": [
+      {
+        "step": 1,
+        "description": "In a small bowl, stir together the garlic, parsley, and mint or marjoram. Add salt and pepper to taste. Stir in 1 tablespoon of the oil."
+      },
+      {
+        "step": 2,
+        "description": "Gently spread the leaves of the artichokes and push some of the garlic mixture down into the center. Squeezing the artichokes slightly to hold in the filling, place them stem-side up in a pan just large enough to hold them upright. Pour the wine around the artichokes. Add water to a depth of 3/4 inch. Drizzle the artichokes with the remaining oil."
+      },
+      {
+        "step": 3,
+        "description": "Cover the pan and bring the liquid to a simmer over medium heat. Cook 45 minutes or until the artichokes are tender when pierced with a knife. Serve hot or at room temperature."
+      }
+    ],
+    "variations": []
+  }

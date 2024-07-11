@@ -1,0 +1,32 @@
+
+  {
+    "id": "c11-rcu-0078",
+    "title": "Wax Beans with Olives",
+    "titleAlternative": "Fagiolini Giallo con Olive",
+    "yield": "Makes 4 servings",
+    "introduction": "Shiny black olives and green parsley provide a vibrant color contrast to the pale yellow wax beans in this dish. This preparation also works well with green beans, and substituting olive oil for butter lets you serve it at room temperature without it firming up.",
+    "ingredients": [
+      "1 pound yellow wax or green beans",
+      "Salt",
+      "3 tablespoons unsalted butter",
+      "1 small onion, chopped",
+      "1 garlic clove, finely chopped",
+      "1/2 cup mild black olives, such as Gaeta, pitted and chopped",
+      "2 tablespoons chopped fresh flat-leaf parsley"
+    ],
+    "instructions": [
+      {
+        "step": 1,
+        "description": "Snap off the stem ends of the green beans. Bring about 2 quarts of water to a boil in a large saucepan. Add the beans and salt to taste. Cook uncovered until the beans are crisp-tender, 4 to 5 minutes. Rinse the beans under cold water and drain well. Pat dry. Cut the beans into 1-inch pieces."
+      },
+      {
+        "step": 2,
+        "description": "In a skillet large enough to hold all of the beans, melt the butter over medium heat. Add the onion and garlic and cook until tender and golden, about 10 minutes."
+      },
+      {
+        "step": 3,
+        "description": "Stir in the beans, olives, and parsley until heated through, about 2 minutes. Serve hot."
+      }
+    ],
+    "variations": []
+  }

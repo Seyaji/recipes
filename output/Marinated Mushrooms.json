@@ -1,0 +1,32 @@
+{
+  "id": "c01-rcu-0020",
+  "title": "Marinated Mushrooms",
+  "titleAlternative": "Funghi Marinati",
+  "yield": "Makes 1 quart",
+  "introduction": "Marinated mushrooms are a fantastic addition to any antipasto platter, perfect for sandwiches, or as a delicious side dish to accompany a frittata. With a beautiful balance of acidity from vinegar and a touch of spice from red pepper, these mushrooms are sure to impress your palate.",
+  "ingredients": [
+    "1 cup white vinegar",
+    "1 cup water",
+    "1 1/2 pounds white mushrooms, halved or quartered if large",
+    "4 garlic cloves",
+    "1 teaspoon salt",
+    "1/2 teaspoon dried oregano",
+    "Pinch of crushed red pepper",
+    "Extra-virgin olive oil (optional)"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "description": "In a large saucepan, bring the vinegar and water to a boil. Add the mushrooms and return the liquid to boiling. Cook for 5 minutes. Drain the mushrooms, reserving the liquid."
+    },
+    {
+      "step": 2,
+      "description": "Place the mushrooms in a quart-size glass jar, pressing them down with the back of a spoon. Add the garlic, salt, oregano, and crushed red pepper. Add enough of the reserved liquid to cover the mushrooms. Let cool slightly, then cover and refrigerate at least 24 hours before serving."
+    },
+    {
+      "step": 3,
+      "description": "Serve the mushrooms drizzled with the oil, if desired. The mushrooms keep well in the refrigerator for up to 2 weeks."
+    }
+  ],
+  "variations": []
+}

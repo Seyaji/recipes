@@ -1,0 +1,32 @@
+
+    {
+        "id": "c01-rcu-0002",
+        "title": "Goat Cheese, Valle d'Aosta Style",
+        "titleAlternative": "Tomini di Courmayeur",
+        "yield": "Makes 6 servings",
+        "introduction": "The Goat Cheese, Valle d'Aosta Style, also known as Tomini di Courmayeur, hails from the picturesque region of Courmayeur, known for its stunning ski resorts and a rich culinary heritage that straddles the French-Italian border. This delightful dish showcases mild goat cheese topped with a vibrant mixture of fresh herbs and crunchy celery, creating a perfect harmony of flavors that pairs wonderfully with toasted Italian or French bread. Whether served as an appetizer or a dessert drizzled with honey, it is a true testament to the simple yet flavorful cuisine of Valle d'Aosta.",
+        "ingredients": [
+            "1/4 cup extra-virgin olive oil",
+            "2 tablespoons wine vinegar",
+            "1 garlic clove, minced",
+            "1 teaspoon chopped fresh thyme",
+            "Pinch of crushed red pepper",
+            "Salt and freshly ground black pepper",
+            "1 cup finely chopped tender celery",
+            "2 tablespoons chopped fresh flat-leaf parsley",
+            "2 sage leaves, chopped",
+            "8 ounces fresh mild goat cheese",
+            "Thin slices toasted Italian or French bread"
+        ],
+        "instructions": [
+            {
+                "step": 1,
+                "description": "In a medium bowl, whisk together the oil, vinegar, garlic, thyme, red pepper, and salt and black pepper to taste. Stir in the celery, parsley, and sage."
+            },
+            {
+                "step": 2,
+                "description": "Place the cheese on a serving plate. Pour the sauce over the cheese. Cover and let stand 1 hour at room temperature. Serve with toasted bread."
+            }
+        ],
+        "variations": []
+    }

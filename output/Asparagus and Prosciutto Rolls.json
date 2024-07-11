@@ -1,0 +1,30 @@
+{
+  "id": "c01-rcu-0033",
+  "title": "Asparagus and Prosciutto Rolls",
+  "titleAlternative": "Involtini di Prosciutto e Asparagi",
+  "yield": "Makes 4 to 8 servings",
+  "introduction": "Thinly sliced prosciutto wrapped around asparagus spears creates a visually appealing and delicious appetizer. This versatile dish can be easily modified by substituting the prosciutto with smoked salmon or salami, or by using breadsticks instead of asparagus.",
+  "ingredients": [
+    "1 pound medium asparagus",
+    "Salt",
+    "1/4 pound thinly sliced imported Italian prosciutto"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "description": "Snap or cut off the base of the asparagus where the color changes from green to white. In a large skillet, bring about 2 inches of water to a boil. Add salt to taste. Add the asparagus. Cook until an asparagus spear bends gently when lifted by the stem end, about 4 to 8 minutes, depending on the thickness of the asparagus. They should be tender yet crisp. Drain the asparagus and cool under running water. Blot dry."
+    },
+    {
+      "step": 2,
+      "description": "Cut the prosciutto slices in half crosswise. Leaving the tips uncovered, wind a piece of prosciutto around the length of each asparagus spear. Arrange the asparagus on a serving platter."
+    },
+    {
+      "step": 3,
+      "description": "Serve immediately or cover with plastic wrap and refrigerate up to 3 hours."
+    }
+  ],
+  "variations": [
+    "Substitute smoked salmon or salami for the prosciutto.",
+    "Use breadsticks instead of asparagus."
+  ]
+}

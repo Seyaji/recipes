@@ -1,0 +1,35 @@
+
+  {
+    "id": "c03-rcu-0010",
+    "title": "Spinach, Lentil, and Rice Soup",
+    "titleAlternative": "Minestra di Lenticchie e Spinaci",
+    "yield": "Makes 8 servings",
+    "introduction": "Spinach, Lentil, and Rice Soup is a comforting and nutritious dish that combines tender lentils with fresh spinach and hearty rice. This soup offers a rich, earthy flavor enhanced by garlic and extra-virgin olive oil, making it a perfect meal for cold days.",
+    "ingredients": [
+      "1 pound lentils, picked over and rinsed",
+      "6 cups water",
+      "3 large garlic cloves, chopped",
+      "1/4 cup extra-virgin olive oil",
+      "8 ounces spinach, stemmed and torn into bite-size pieces",
+      "Salt and freshly ground black pepper",
+      "1 cup cooked rice"
+    ],
+    "instructions": [
+      {
+        "step": 1,
+        "description": "In a large pot, combine the lentils, water, garlic, and oil. Bring to a simmer and cook over low heat 40 minutes. Add a little water as needed so that the lentils are just covered."
+      },
+      {
+        "step": 2,
+        "description": "Stir in the spinach and the salt and pepper to taste. Cook until the lentils are tender, about 10 minutes more."
+      },
+      {
+        "step": 3,
+        "description": "Add the rice and cook until heated through. Serve hot, with a drizzle of extra-virgin olive oil."
+      }
+    ],
+    "variations": [
+      "If less water is added and the rice is omitted, this soup becomes a side dish to serve with grilled fish fillets or pork.",
+      "Escarole, kale, cabbage, Swiss chard, or other leafy greens can be used instead of the spinach."
+    ]
+  }

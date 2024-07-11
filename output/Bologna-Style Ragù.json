@@ -1,0 +1,44 @@
+
+  {
+    "id": "c04-rcu-0015",
+    "title": "Bologna-Style Ragù",
+    "titleAlternative": "Ragù Bolognese",
+    "yield": "Makes about 5 cups",
+    "introduction": "Bologna-Style Ragù, or Ragù Bolognese, is a rich, flavorful meat sauce that exemplifies the culinary traditions of Bologna. The sauce derives its deep flavor from the slow cooking of soffritto—a combination of aromatic vegetables and pancetta. This ragù is perfect for serving over fresh egg pasta like tortellini, and it's a staple in the cuisine for its versatility and rich taste.",
+    "ingredients": [
+      "2 cups homemade meat broth or store-bought beef broth",
+      "2 tablespoons unsalted butter",
+      "2 tablespoons olive oil",
+      "2 ounces pancetta, finely chopped",
+      "2 small carrots, peeled and finely chopped",
+      "1 onion, finely chopped",
+      "1 tender celery rib, finely chopped",
+      "8 ounces ground veal",
+      "8 ounces ground pork",
+      "8 ounces ground beef",
+      "1/2 cup dry red wine",
+      "3 tablespoons tomato paste",
+      "1/4 teaspoon grated nutmeg",
+      "Salt and freshly ground black pepper",
+      "1 cup milk"
+    ],
+    "instructions": [
+      {
+        "step": "1",
+        "description": "Prepare the broth, if necessary. In a large pot, melt the butter with the oil over medium-low heat. Add the pancetta, carrots, onion, and celery. Cook the mixture over low heat, stirring occasionally, until all the flavorings are very tender and a rich golden color, about 30 minutes. If the ingredients begin to brown too much, stir in a little warm water."
+      },
+      {
+        "step": "2",
+        "description": "Add the meats and stir well. Cook, stirring often to break up the lumps, until the meats lose their pink color, but do not brown, about 15 minutes."
+      },
+      {
+        "step": "3",
+        "description": "Add the wine and simmer until the liquid evaporates, about 2 minutes. Stir in the tomato paste, broth, nutmeg, and add salt and pepper to taste. Bring the mixture to a simmer. Cook on low heat, stirring occasionally, until the sauce is thick, about 2 to 3 hours. If the sauce becomes too thick, add a little more broth or water."
+      },
+      {
+        "step": "4",
+        "description": "Stir in the milk and cook 15 minutes more. Serve hot. Can be made ahead and stored in an airtight container in the refrigerator up to 3 days or in the freezer up to 2 months."
+      }
+    ],
+    "variations": []
+  }

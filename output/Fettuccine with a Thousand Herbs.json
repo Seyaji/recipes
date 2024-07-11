@@ -1,0 +1,29 @@
+
+    {
+        "id": "c05-rcu-0090",
+        "title": "Fettuccine with a Thousand Herbs",
+        "titleAlternative": "Fettuccine alle Mille Erbe",
+        "yield": "4 to 6 servings",
+        "introduction": "Fettuccine with a Thousand Herbs is a delightful summer pasta dish that bursts with the freshness of garden herbs and ripe tomatoes. Originally from a charming restaurant in Tuscany, this recipe emphasizes the importance of using fresh herbs to achieve a complex and balanced flavor profile. The vibrant green herbs mix exquisitely with the tender fettuccine and juicy tomatoes, making each bite a celebration of summer's bounty.",
+        "ingredients": [
+            {"quantity": "1/4 cup", "description": "chopped Italian parsley"},
+            {"quantity": "1/4 cup", "description": "chopped fresh basil"},
+            {"quantity": "1/4 cup", "description": "chopped fresh tarragon"},
+            {"quantity": "2 tablespoons", "description": "chopped fresh mint"},
+            {"quantity": "2 tablespoons", "description": "chopped fresh marjoram"},
+            {"quantity": "2 tablespoons", "description": "chopped fresh thyme"},
+            {"quantity": "8 leaves", "description": "fresh sage, finely chopped"},
+            {"quantity": "1 sprig", "description": "fresh rosemary, finely chopped"},
+            {"quantity": "1/3 cup", "description": "extra-virgin olive oil"},
+            {"quantity": "to taste", "description": "Salt and freshly ground black pepper"},
+            {"quantity": "1 pound", "description": "fresh fettuccine"},
+            {"quantity": "1/2 cup", "description": "freshly grated Pecorino Romano"},
+            {"quantity": "2 medium", "description": "ripe tomatoes, peeled, seeded, and chopped"}
+        ],
+        "instructions": [
+            {"step": 1, "description": "In a bowl large enough to contain all of the ingredients, combine the herbs, olive oil, and salt and pepper to taste. Set aside."},
+            {"step": 2, "description": "Bring at least 4 quarts of water to a boil. Add 2 tablespoons of salt, then the pasta. Stir well and cook over high heat, stirring frequently, until the pasta is al dente, tender yet still firm to the bite. Drain the pasta, reserving some of the cooking water."},
+            {"step": 3, "description": "Add the pasta to the bowl with the herb mixture and toss well. Add the cheese and toss again. Scatter the tomatoes over the pasta and serve immediately."}
+        ],
+        "variations": []
+    }

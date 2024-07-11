@@ -1,0 +1,35 @@
+
+    {
+        "id": "c10-rcu-0114",
+        "title": "Lamb Shanks with Chickpeas",
+        "titleAlternative": "Stinco di Agnello con Ceci",
+        "yield": "Makes 4 servings",
+        "introduction": "Lamb shanks require long, slow cooking to achieve meat that is moist and almost melts in your mouth. This dish, inspired by Italian cuisine, features well-trimmed lamb shanks in harmony with carrots, celery, and chickpeas, creating a hearty, flavorful meal. The gentle care in preparation, including the crucial browning and simmering processes, ensures a delightful culinary experience.",
+        "ingredients": [
+            "2 tablespoons olive oil",
+            "4 small lamb shanks, well trimmed",
+            "Salt and freshly ground black pepper",
+            "1 small onion, chopped",
+            "2 cups beef broth",
+            "1 cup peeled, seeded, and chopped tomatoes",
+            "1/2 teaspoon dried marjoram or thyme",
+            "4 carrots, peeled and cut into 1-inch pieces",
+            "2 tender celery ribs, cut into 1-inch chunks",
+            "3 cups cooked or 2 (16-ounce) cans chickpeas, drained"
+        ],
+        "instructions": [
+            {
+                "step": "1",
+                "description": "In a Dutch oven large enough to hold the shanks in a single layer, or another deep, heavy pot with a tight-fitting lid, heat the oil over medium heat. Pat the lamb shanks dry and brown them well on all sides, about 15 minutes. Tip the pan and spoon off the excess fat. Sprinkle with salt and pepper. Add the onion and cook 5 minutes more."
+            },
+            {
+                "step": "2",
+                "description": "Add the broth, tomatoes, and marjoram and bring to a simmer. Reduce heat to low. Cover and cook 1 hour, turning the shanks occasionally."
+            },
+            {
+                "step": "3",
+                "description": "Add the carrots, celery, and chickpeas. Cook 30 minutes more or until the meat is tender when pierced with a small knife. Serve hot."
+            }
+        ],
+        "variations": []
+    }

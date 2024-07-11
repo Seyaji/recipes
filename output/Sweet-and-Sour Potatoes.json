@@ -1,0 +1,32 @@
+{
+  "id": "c11-rcu-0119",
+  "title": "Sweet-and-Sour Potatoes",
+  "titleAlternative": "Patate in Agrodolce",
+  "yield": "Makes 6 to 8 servings",
+  "introduction": "Sweet-and-Sour Potatoes is a delightful Sicilian-style potato salad that pairs wonderfully with grilled pork ribs, chicken, or sausages. The combination of tender potatoes, olives, and capers, finished with a sweet-and-tangy sauce, makes this dish a unique and flavorful accompaniment.",
+  "ingredients": [
+    "2 pounds all-purpose potatoes, such as Yukon gold",
+    "1 onion",
+    "2 tablespoons olive oil",
+    "1 cup pitted mild black olives, such as Gaeta",
+    "2 tablespoons capers",
+    "Salt and freshly ground black pepper",
+    "2 tablespoons white wine vinegar",
+    "2 tablespoons sugar"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "description": "Scrub the potatoes with a brush under cold running water. Peel them if desired. Cut the potatoes into halves or quarters if large. In a large skillet, cook the onion in the oil until tender and golden, about 10 minutes."
+    },
+    {
+      "step": 2,
+      "description": "Stir in the potatoes, olives, capers, and salt and pepper to taste. Add 1 cup of water and bring to a simmer. Cook 15 minutes."
+    },
+    {
+      "step": 3,
+      "description": "In a small bowl, stir together the vinegar and sugar, and add it to the skillet. Continue to cook until the potatoes are tender, about 5 minutes. Remove from the heat and let cool completely. Serve at room temperature."
+    }
+  ],
+  "variations": []
+}

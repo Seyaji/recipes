@@ -1,0 +1,21 @@
+{
+  "id": "c02-rcu-0003",
+  "title": "Green Salad with Lemon and Pine Nuts",
+  "titleAlternative": "Insalata Verde al Pinoli",
+  "yield": "Makes 4 servings",
+  "introduction": "This delightful green salad combines the crispness of mixed baby greens with the tangy zest of lemon and the crunchy texture of toasted pine nuts. Ideal for a light and refreshing dish, this salad brings a bit of Florence to your table.",
+  "ingredients": [
+    { "amount": "1/4 cup", "ingredient": "pine nuts" },
+    { "amount": "6 cups", "ingredient": "mixed baby greens" },
+    { "amount": "1/4 cup", "ingredient": "extra-virgin olive oil" },
+    { "amount": "2 tablespoons", "ingredient": "fresh lemon juice" },
+    { "amount": "Pinch", "ingredient": "grated lemon zest" },
+    { "amount": "", "ingredient": "Salt and freshly ground black pepper" }
+  ],
+  "instructions": [
+    "1. Place the pine nuts in a small skillet. Turn the heat to medium and cook the nuts, shaking the pan occasionally, until they are fragrant and lightly toasted, about 5 minutes. Let cool.",
+    "2. Wash the greens in several changes of cold water. Dry very well. Tear the greens into bite-size pieces.",
+    "3. In a large salad bowl, whisk together the oil, lemon juice, zest, and salt and pepper to taste. Add the greens and toss well. Add the pine nuts and toss again. Serve immediately."
+  ],
+  "variations": []
+}

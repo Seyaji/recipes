@@ -1,0 +1,29 @@
+
+  {
+    "id": "c11-rcu-0109",
+    "title": "Peppers with Balsamic Vinegar",
+    "titleAlternative": "Peperoni al Balsamico",
+    "yield": "Makes 6 servings",
+    "introduction": "The sweetness of balsamic vinegar beautifully complements the inherent sweetness of red bell peppers. These peppers can be served hot alongside pork or lamb chops, or served at room temperature with cold chicken or roast pork, making them a versatile addition to any meal.",
+    "ingredients": [
+      "6 large red bell peppers",
+      "1/4 cup olive oil",
+      "Salt and freshly ground black pepper",
+      "2 tablespoons balsamic vinegar"
+    ],
+    "instructions": [
+      {
+        "step": 1,
+        "description": "Place a rack in the center of the oven. Preheat the oven to 400°F. Stand the peppers on a cutting board. Holding the stem in one hand, place the cutting edge of a large heavy chef's knife just beyond the edge of the cap. Cut straight down. Turn the pepper 90° and cut straight down again. Repeat, turning and cutting the remaining two sides. Discard the core, seeds, and stem, which will be in one piece. Cut away any membranes and scrape out any seeds."
+      },
+      {
+        "step": 2,
+        "description": "Cut the peppers into 1-inch strips. Place them in a large shallow roasting pan with the oil and salt and pepper. Toss well. Bake the peppers 30 minutes."
+      },
+      {
+        "step": 3,
+        "description": "Stir in the vinegar. Bake the peppers 20 minutes more or until tender. Serve hot or at room temperature."
+      }
+    ],
+    "variations": []
+  }

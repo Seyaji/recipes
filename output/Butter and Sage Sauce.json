@@ -1,0 +1,29 @@
+{
+  "id": "c04-rcu-0021",
+  "title": "Butter and Sage Sauce",
+  "titleAlternative": "Salsa al Burro e Salvia",
+  "yield": "Makes 1/2 cup",
+  "introduction": "Butter and sage sauce is a simple yet classic accompaniment for fresh egg pasta, especially stuffed variants like ravioli. This recipe highlights the importance of using fresh butter and finishing with a generous sprinkle of Parmigiano-Reggiano cheese to bring out its rich, savory flavors.",
+  "ingredients": [
+    "1 stick unsalted butter",
+    "6 sage leaves",
+    "Salt and freshly ground black pepper",
+    "Parmigiano-Reggiano"
+  ],
+  "instructions": [
+    "Melt the butter with the sage over low heat.",
+    "Simmer for 1 minute.",
+    "Season to taste with salt and pepper.",
+    "Serve with hot, cooked pasta and top with Parmigiano-Reggiano cheese."
+  ],
+  "variations": [
+    {
+      "name": "Brown Butter Sauce",
+      "description": "Cook the butter for a few minutes until it browns lightly. Leave out the sage."
+    },
+    {
+      "name": "Hazelnut Sauce",
+      "description": "Add 1/4 cup chopped toasted hazelnuts to the butter. Leave out the sage."
+    }
+  ]
+}

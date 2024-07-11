@@ -1,0 +1,73 @@
+
+    {
+        "id": "c13-rcu-0080",
+        "title": "Florentine Frozen Dome Cake",
+        "titleAlternative": "Zuccotto",
+        "yield": "Makes 8 servings",
+        "introduction": "Inspired by the dome of the beautiful Duomo, the cathedral in the heart of Florence, this Florentine Frozen Dome Cake is an impressive dessert that is surprisingly easy to make. Using prepared pound cake as a base, it layers rum and orange liqueur-soaked cake with a rich filling of whipped cream, chocolate, and toasted almonds. Perfect for a celebratory event or a refined dinner party, this dessert promises to wow your guests.",
+        "ingredients": {
+            "cake": [
+                {
+                    "quantity": "1 (12-ounce)",
+                    "item": "pound cake"
+                },
+                {
+                    "quantity": "2 tablespoons",
+                    "item": "rum"
+                },
+                {
+                    "quantity": "2 tablespoons",
+                    "item": "orange liqueur"
+                }
+            ],
+            "filling": [
+                {
+                    "quantity": "1 pint",
+                    "item": "heavy or whipping cream"
+                },
+                {
+                    "quantity": "1/4 cup",
+                    "item": "confectioner's sugar, plus more for garnish"
+                },
+                {
+                    "quantity": "1 teaspoon",
+                    "item": "pure vanilla extract"
+                },
+                {
+                    "quantity": "4 ounces",
+                    "item": "semisweet chocolate, finely chopped"
+                },
+                {
+                    "quantity": "2 tablespoons",
+                    "item": "sliced almonds, toasted and cooled"
+                },
+                {
+                    "quantity": "optional",
+                    "item": "Fresh berries"
+                }
+            ]
+        },
+        "instructions": [
+            {
+                "step": 1,
+                "description": "At least 20 minutes before you are ready to whip the cream, place a large bowl and the beaters of an electric mixer in the refrigerator. Line a 2-quart round bowl or mold with plastic wrap. Cut the cake into slices no more than 1/4-inch thick. Cut each slice in half diagonally, forming two triangular pieces, and lay them all on a platter."
+            },
+            {
+                "step": 2,
+                "description": "In a small bowl, mix together the rum and liqueur, and sprinkle the mixture over the cake. Place as many cake pieces as needed side by side—pointed-side down—in the bowl to form one layer. Cover the remaining inside surface of the bowl with the remaining cake, cutting the pieces to fit as needed. Fill in any gaps with cut-up pieces of cake. Set aside the remaining cake for the top."
+            },
+            {
+                "step": 3,
+                "description": "Prepare the filling: Remove the bowl and beaters from the refrigerator. Pour the cream into the bowl. Add the confectioners' sugar and vanilla. Whip at high speed until the cream holds its shape softly when the beaters are lifted, about 4 minutes. Gently fold in the chocolate and almonds."
+            },
+            {
+                "step": 4,
+                "description": "Spoon the cream mixture into the mold, being careful not to disturb the cake. Place the remaining cake slices in a layer on top. Cover securely with plastic wrap and freeze the mold 4 hours up to overnight."
+            },
+            {
+                "step": 5,
+                "description": "To serve, remove the plastic wrap and invert a serving plate on top of the bowl. Holding the plate and bowl together, invert them both. Lift off the bowl. Remove the plastic wrap and sprinkle with confectioner's sugar. Place the berries around the cake. Cut into wedges to serve."
+            }
+        ],
+        "variations": []
+    }

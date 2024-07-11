@@ -1,0 +1,32 @@
+{
+  "id": "c05-rcu-0084",
+  "title": "Triple-Butter Fettuccine",
+  "titleAlternative": "Fettuccine al Triplo Burro",
+  "yield": "Makes 4 to 6 servings",
+  "introduction": "Triple-Butter Fettuccine is a rich and creamy Roman pasta dish that combines cream, butter, and cheese—often referred to as the 'three butters.' This recipe stands out with its luxurious sauce, making it a comforting and indulgent meal.",
+  "ingredients": [
+    "1 pound fresh fettuccine",
+    "Salt",
+    "1 stick (1/2 cup) unsalted butter",
+    "1 cup heavy cream",
+    "3/4 cup freshly grated Parmigiano-Reggiano",
+    "Freshly ground black pepper"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "instruction": "Bring at least 4 quarts of water to a boil. Add 2 tablespoons of salt and the pasta. Stir well. Cook over high heat, stirring frequently, until the pasta is al dente, tender yet still firm to the bite. Drain the pasta, reserving some of the cooking water."
+    },
+    {
+      "step": 2,
+      "instruction": "Meanwhile, in a skillet large enough to hold all of the pasta, melt the butter over medium-low heat. Add the pasta, cream, 1/2 cup of the cheese, and a pinch of salt, tossing until well coated. Add some of the cooking water if the pasta seems dry. Sprinkle with pepper."
+    },
+    {
+      "step": 3,
+      "instruction": "Serve immediately with the remaining cheese."
+    }
+  ],
+  "variations": [
+    "For a different flavor, substitute Gruyere cheese for the Parmigiano-Reggiano."
+  ]
+}

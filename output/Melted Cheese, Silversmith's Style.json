@@ -1,0 +1,48 @@
+{
+  "id": "c01-rcu-0009",
+  "title": "Melted Cheese, Silversmith's Style",
+  "titleAlternative": "Formaggio all'Argentiera",
+  "yield": "Makes 4 servings",
+  "introduction": "Formaggio all'Argentiera, also known as Melted Cheese, Silversmith's Style, is a dish steeped in Sicilian tradition. Named after an elusive silversmith, this recipe creates a delightful illusion with aromatic cheese, garlic, vinegar, and oregano, evoking the scent of roasted meat. This savory delight pairs perfectly with crisp bread and a bottle of red wine, making it a staple in Italian cuisine.",
+  "ingredients": [
+    {
+      "amount": "6 to 8 ounces",
+      "item": "imported provolone, caciocavallo, or Asiago cheese"
+    },
+    {
+      "amount": "2 tablespoons",
+      "item": "olive oil"
+    },
+    {
+      "amount": "2 large cloves",
+      "item": "garlic, thinly sliced"
+    },
+    {
+      "amount": "2 tablespoons",
+      "item": "white wine vinegar"
+    },
+    {
+      "amount": "1/2 teaspoon",
+      "item": "dried oregano"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "description": "Remove the rind from the cheese and cut the cheese into 1/2-inch-thick slices."
+    },
+    {
+      "step": 2,
+      "description": "In a large heavy skillet, heat the oil over medium heat. Add the garlic and cook until just beginning to turn golden, 1 to 2 minutes."
+    },
+    {
+      "step": 3,
+      "description": "Place the cheese slices in a single layer on top of the garlic. Raise the heat and add the vinegar. Cook 1 to 2 minutes or until the cheese just begins to melt."
+    },
+    {
+      "step": 4,
+      "description": "With a metal spatula, quickly turn the slices and sprinkle with the oregano. Cook 1 to 2 minutes more or until the cheese is slightly melted and bubbling around the edges. Transfer to serving dishes and serve hot."
+    }
+  ],
+  "variations": []
+}

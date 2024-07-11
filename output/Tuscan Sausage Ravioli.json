@@ -1,0 +1,36 @@
+{
+  "id": "c05-rcu-0115",
+  "title": "Tuscan Sausage Ravioli",
+  "titleAlternative": "Tortelli Casentinese",
+  "yield": "Makes 8 servings",
+  "introduction": "Tortelli, an alternative name for ravioli commonly used in Tuscany and Emilia-Romagna, is a delightful Italian pasta. This particular recipe, hailing from the Casentino section of Tuscany, features tortelli stuffed with flavorful pork sausage. The Casentino region is also renowned for its exquisite wool products.",
+  "ingredients": [
+    "3 cups Tuscan Tomato Sauce",
+    "1 garlic clove, very finely chopped",
+    "2 tablespoons olive oil",
+    "1 pound plain Italian pork sausage, skinned",
+    "2 large eggs",
+    "2 tablespoons tomato paste",
+    "1 cup freshly grated Pecorino Romano",
+    "1/4 cup plain dry bread crumbs",
+    "2 tablespoons chopped fresh flat-leaf parsley",
+    "Pinch of freshly grated nutmeg",
+    "Salt and freshly ground black pepper",
+    "1 pound Fresh Egg Pasta, rolled out and cut into 4-inch strips"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "instruction": "Prepare the sauce. Then, in a large skillet, cook the garlic in the oil over medium heat for 1 minute. Add the sausage meat and cook, stirring frequently, until the meat is just cooked through. Transfer the sausage meat to a cutting board and chop fine."
+    },
+    {
+      "step": 2,
+      "instruction": "In a large bowl, beat the eggs until blended. Beat in the tomato paste. Stir in the sausage meat, 1/2 cup of the cheese, bread crumbs, nutmeg, and salt and pepper to taste."
+    },
+    {
+      "step": 3,
+      "instruction": "Prepare the pasta. Make and cook the ravioli as described in the recipe for Cheese Ravioli, steps 2 to 6. Spoon on the sauce and serve immediately with the remaining 1/2 cup grated cheese."
+    }
+  ],
+  "variations": []
+}

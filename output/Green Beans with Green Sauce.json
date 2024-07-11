@@ -1,0 +1,27 @@
+
+  {
+    "id": "c11-rcu-0072",
+    "title": "Green Beans with Green Sauce",
+    "titleAlternative": "Fagiolini al Pesto",
+    "yield": "Makes 4 servings",
+    "introduction": "Enjoy a delightful combination of tender green beans coated in a vibrant green sauce. Perfect as a side dish, these beans can be enhanced with boiled new potatoes and pair beautifully with grilled salmon or tuna steaks.",
+    "ingredients": [
+      {
+        "quantity": "1/4 cup",
+        "item": "Green Sauce"
+      },
+      {
+        "quantity": "1 pound",
+        "item": "green beans"
+      },
+      {
+        "quantity": "",
+        "item": "Salt"
+      }
+    ],
+    "instructions": [
+      "Prepare the green sauce, if necessary. Then, snap off the stem ends of the green beans. Bring about 2 quarts of water to a boil in a large saucepan. Add the beans and salt to taste. Cook uncovered until the beans are tender, 5 to 6 minutes.",
+      "Drain the beans well and pat them dry. Toss with the sauce. Serve warm or at room temperature."
+    ],
+    "variations": "Add boiled new potatoes to the green beans for added texture and flavor."
+  }

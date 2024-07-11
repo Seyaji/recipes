@@ -1,0 +1,69 @@
+{
+  "id": "c03-rcu-0038",
+  "title": "Escarole and Little Meatballs Soup",
+  "titleAlternative": "Zuppa di Scarola e Polpettini",
+  "yield": "Makes 6 to 8 servings",
+  "introduction": "Escarole and Little Meatballs Soup is a beloved dish that brings warmth and comfort. A traditional recipe often enjoyed on special occasions, this soup combines tender escarole, flavorful broth, and delightful little meatballs, making it a heartwarming meal.",
+  "ingredients": [
+    {
+      "ingredient": "homemade Chicken Broth or a mix of half store-bought broth and half water",
+      "quantity": "4 quarts"
+    },
+    {
+      "ingredient": "medium head of escarole (about 1 pound)",
+      "quantity": "1"
+    },
+    {
+      "ingredient": "large carrots, chopped",
+      "quantity": "3"
+    },
+    {
+      "category": "Meatballs",
+      "ingredients": [
+        {
+          "ingredient": "ground veal or beef",
+          "quantity": "1 pound"
+        },
+        {
+          "ingredient": "large eggs, beaten",
+          "quantity": "2"
+        },
+        {
+          "ingredient": "very finely minced onion",
+          "quantity": "1/2 cup"
+        },
+        {
+          "ingredient": "plain bread crumbs",
+          "quantity": "1 cup"
+        },
+        {
+          "ingredient": "freshly grated Pecorino Romano, plus more for serving",
+          "quantity": "1 cup"
+        },
+        {
+          "ingredient": "salt",
+          "quantity": "1 teaspoon"
+        },
+        {
+          "ingredient": "Freshly ground black pepper, to taste",
+          "quantity": "to taste"
+        }
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "step": "Prepare the broth, if necessary. Then, trim the escarole and discard any bruised leaves. Cut off the stem ends. Separate the leaves and wash well in cool water, especially in the center of the leaves where soil collects. Stack the leaves and cut them crosswise into 1-inch strips."
+    },
+    {
+      "step": "In a large pot, combine the broth, escarole, and carrots. Bring to a simmer and cook 30 minutes."
+    },
+    {
+      "step": "Meanwhile, prepare the meatballs: Mix all of the meatball ingredients in a large bowl. With your hands (or a small scoop dispenser), shape the mixture into tiny balls, about the size of small grapes, and place them on a plate or tray."
+    },
+    {
+      "step": "When the vegetables are ready, gently drop the meatballs one at a time into the soup. Cook over low heat, until the meatballs are cooked through, about 20 minutes. Taste and adjust seasoning. Serve hot, sprinkled with grated Pecorino Romano."
+    }
+  ],
+  "variations": []
+}

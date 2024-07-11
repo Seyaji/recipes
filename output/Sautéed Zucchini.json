@@ -1,0 +1,34 @@
+
+    {
+        "id": "c11-rcu-0142",
+        "title": "Sautéed Zucchini",
+        "titleAlternative": "Zucchine in Padella",
+        "yield": "Makes 6 servings",
+        "introduction": "This is a simple and quick way to prepare a delicious side dish featuring fresh zucchini, finely chopped onions, and fragrant parsley. Its light and refreshing flavor profile makes it the perfect accompaniment to any main course.",
+        "ingredients": [
+            "1 pound small zucchini",
+            "2 tablespoons unsalted butter",
+            "1 small onion, very finely chopped",
+            "Salt and freshly ground black pepper",
+            "3 tablespoons chopped flat-leaf parsley"
+        ],
+        "instructions": [
+            {
+                "step": 1,
+                "description": "Scrub the zucchini with a brush under cold running water. Trim off the ends. Cut into 1/8-inch slices."
+            },
+            {
+                "step": 2,
+                "description": "In a medium skillet over medium-low heat, melt the butter. Add the onion and cook until softened, about 5 minutes."
+            },
+            {
+                "step": 3,
+                "description": "Add the zucchini and toss to coat with the butter. Cover and cook 5 minutes, or until the zucchini is just tender when pierced with a fork."
+            },
+            {
+                "step": 4,
+                "description": "Add salt and pepper to taste and parsley and toss well. Serve immediately."
+            }
+        ],
+        "variations": []
+    }

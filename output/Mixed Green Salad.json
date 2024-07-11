@@ -1,0 +1,27 @@
+
+    {
+        "id": "c02-rcu-0001",
+        "title": "Mixed Green Salad",
+        "titleAlternative": "Insalata Mista",
+        "yield": "Makes 4 servings",
+        "introduction": "Mixed Green Salad, known as Insalata Mista in Italy, is a simple yet classic dish that perfectly balances the freshness of greens with the subtle tanginess of wine vinegar. Traditionally served with olive oil, vinegar, and salt, this salad can be easily tailored to your taste. Enjoy it on its own or as a wonderful accompaniment to any meal.",
+        "ingredients": [
+            "1 head romaine, Boston, iceberg, or other lettuce, or a combination",
+            "About 3 tablespoons extra-virgin olive oil",
+            "1 tablespoon wine vinegar",
+            "Salt to taste"
+        ],
+        "instructions": [
+            {
+                "step": "1",
+                "text": "Trim the lettuce, discarding the outer leaves and any that are bruised. Wash them in several changes of cool water. Dry very well. Tear the lettuce into bite-size pieces. There should be about 6 cups."
+            },
+            {
+                "step": "2",
+                "text": "Place the lettuce in a large salad bowl. Drizzle with the oil and toss well. In a small bowl, whisk together the vinegar and salt until the salt is dissolved. Pour the vinegar over the salad and toss again. Taste a piece of lettuce and add more oil, vinegar, or salt if needed. Serve immediately."
+            }
+        ],
+        "variations": [
+            "Variation: For added color and substance, add 1 cup shredded carrots or torn radicchio, and 1 or 2 tomatoes, cut into wedges."
+        ]
+    }

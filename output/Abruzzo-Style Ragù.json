@@ -1,0 +1,44 @@
+{
+  "id": "c04-rcu-0010",
+  "title": "Abruzzo-Style Ragù",
+  "titleAlternative": "Ragù Abruzzese",
+  "yield": "Makes about 7 cups",
+  "introduction": "Abruzzo-Style Ragù is a hearty and robust sauce that features a medley of meats cooked with bone-in vegetables, creating a rich and deep flavor. It's traditionally served over chunky pasta shapes like rigatoni, making it a perfect dish for a comforting meal.",
+  "ingredients": [
+    "3 tablespoons olive oil",
+    "1 pound pork shoulder with some bones, cut into 2-inch pieces",
+    "1 pound lamb neck or shoulder with bones, cut into 2-inch pieces",
+    "1 pound boneless veal stew meat, cut into 1-inch pieces",
+    "1/2 cup dry red wine",
+    "2 tablespoons tomato paste",
+    "4 pounds fresh tomatoes, peeled, seeded, and chopped, or 2 (28-ounce) cans imported Italian peeled tomatoes with their juice, passed through a food mill",
+    "2 cups water",
+    "Salt and freshly ground black pepper",
+    "1 medium onion",
+    "1 rib celery",
+    "1 medium carrot"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "instruction": "In a large heavy pot, heat the oil over medium heat. Add the meats and cook, stirring occasionally, until lightly browned."
+    },
+    {
+      "step": 2,
+      "instruction": "Add the wine and cook until most of the liquid evaporates. Stir in the tomato paste. Add the tomatoes, water, and salt and pepper to taste."
+    },
+    {
+      "step": 3,
+      "instruction": "Add the vegetables and bring to a simmer. Cover the pot and cook, stirring occasionally, until the meat is very tender, about 3 hours. If the sauce seems thin, uncover and cook until slightly reduced."
+    },
+    {
+      "step": 4,
+      "instruction": "Let cool. Remove any loose bones and the vegetables."
+    },
+    {
+      "step": 5,
+      "instruction": "Reheat before serving or cover and store in the refrigerator up to 3 days or in the freezer up to 3 months."
+    }
+  ],
+  "variations": []
+}

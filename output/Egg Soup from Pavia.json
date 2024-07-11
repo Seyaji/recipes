@@ -1,0 +1,29 @@
+{
+  "id": "c03-rcu-0031",
+  "title": "Egg Soup from Pavia",
+  "titleAlternative": "Zuppa alla Pavese",
+  "yield": "Makes 4 servings",
+  "introduction": "Egg Soup from Pavia, also known as Zuppa alla Pavese, is a delightful Italian dish featuring poached eggs in a savory broth. This quick and tasty soup is highlighted by perfectly set egg whites and indulgently soft yolks, making it an ideal meal for any time of the day.",
+  "ingredients": [
+    "2 quarts homemade Meat Broth or a mix of half store-bought broth and half water",
+    "4 slices country bread, lightly toasted",
+    "4 large eggs, at room temperature",
+    "4 to 6 tablespoons freshly grated Parmigiano-Reggiano",
+    "Salt and freshly ground black pepper"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "description": "Prepare the broth, if necessary. If not freshly made, heat the broth to a simmer. Season to taste with salt and pepper."
+    },
+    {
+      "step": 2,
+      "description": "Have ready 4 heated soup bowls. Place a slice of toast in each bowl, then crack an egg over each slice of toast."
+    },
+    {
+      "step": 3,
+      "description": "Pour the hot broth over the eggs to cover by a few inches. Sprinkle with the cheese. Let stand until the egg white is cooked to taste. Serve hot."
+    }
+  ],
+  "variations": []
+}

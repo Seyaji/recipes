@@ -1,0 +1,23 @@
+{
+  "id": "c05-rcu-0004",
+  "title": "Thin Spaghetti with Walnuts",
+  "titleAlternative": "Spaghettini con le Noci",
+  "yield": "Makes 4 to 6 servings",
+  "introduction": "This delightful recipe hails from Naples, traditionally enjoyed during meatless Friday meals. The walnuts are finely chopped to create a cohesive and flavorful sauce that perfectly clings to the thin spaghetti strands, making each bite a delicious experience.",
+  "ingredients": [
+    {"quantity": "1/4 cup", "item": "olive oil"},
+    {"quantity": "3", "item": "large garlic cloves, lightly crushed"},
+    {"quantity": "1 cup", "item": "walnuts, finely chopped"},
+    {"quantity": "", "item": "Salt"},
+    {"quantity": "1 pound", "item": "spaghettini, fine linguine, or vermicelli"},
+    {"quantity": "1/2 cup", "item": "freshly grated Pecorino Romano"},
+    {"quantity": "", "item": "Freshly ground black pepper"},
+    {"quantity": "2 tablespoons", "item": "chopped fresh flat-leaf parsley"}
+  ],
+  "instructions": [
+    "Pour the oil into a skillet large enough to hold the pasta. Add the garlic and cook over medium heat, pressing the garlic occasionally with the back of a spoon until it turns deep gold, about 3 to 4 minutes. Remove the garlic from the pan. Stir in the walnuts and cook until lightly toasted, about 5 minutes.",
+    "Bring at least 4 quarts of water to a boil in a large pot. Add 2 tablespoons of salt, then the pasta. Stir well. Cook over high heat, stirring frequently, until the pasta is al dente, tender yet still firm to the bite. Drain the pasta, reserving some of the cooking water.",
+    "Toss the pasta with the nut sauce and just enough of the cooking water to keep it moist. Add the cheese and a generous grinding of black pepper. Toss well. Add the parsley and serve immediately."
+  ],
+  "variations": []
+}

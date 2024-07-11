@@ -1,0 +1,30 @@
+{
+  "id": "c01-rcu-0004",
+  "title": "Warm Ricotta in Fresh Tomato Sauce",
+  "titleAlternative": "Ricotta Calda in Salsa di Pomodori Freschi",
+  "yield": "Makes 4 servings",
+  "introduction": "Warm, creamy ricotta nestled in a fresh, tangy tomato sauce is a delightful starter inspired by a beloved Italian restaurant. The texture and flavor of sheep's milk ricotta elevate this dish, but cow's milk ricotta works beautifully as well.",
+  "ingredients": [
+    "8 ripe plum tomatoes, peeled, seeded, and chopped",
+    "4 tablespoons extra-virgin olive oil",
+    "Salt",
+    "Pinch of crushed red pepper",
+    "6 fresh basil leaves, torn into bits",
+    "1 cup whole- or part-skim ricotta"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "description": "In a medium saucepan, combine the tomatoes, oil, salt, and red pepper. Bring to a simmer. Cook until the tomatoes are just softened, about 5 minutes. Remove from the heat. Add half the basil leaves."
+    },
+    {
+      "step": 2,
+      "description": "In a medium bowl, whisk the ricotta with the remaining basil, and salt and pepper to taste."
+    },
+    {
+      "step": 3,
+      "description": "Spread the tomato sauce on 4 small plates or shallow bowls. With an ice cream scoop, shape the ricotta mixture into 4 balls and place them on top of the sauce. Serve warm."
+    }
+  ],
+  "variations": []
+}

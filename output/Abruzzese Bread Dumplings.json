@@ -1,0 +1,102 @@
+{
+  "id": "c05-rcu-0131",
+  "title": "Abruzzese Bread Dumplings",
+  "titleAlternative": "Polpette di Pane al Sugo",
+  "yield": "Makes 6 to 8 servings",
+  "introduction": "Abruzzese Bread Dumplings, or Polpette di Pane al Sugo, are a delicious and comforting dish that combines the humble ingredients of bread, eggs, and cheese, transforming them into delightful 'meatless meatballs.' These dumplings are simmered in a rich tomato sauce, making them a heartwarming meal originating from the Italian region of Abruzzo, but also enjoyed in Calabria and Basilicata.",
+  "ingredients": [
+    {
+      "name": "Bread",
+      "quantity": "1 12-ounce loaf",
+      "details": "Italian or French bread, cut into 1-inch pieces (about 8 cups)"
+    },
+    {
+      "name": "Water",
+      "quantity": "2 cups",
+      "details": "cool"
+    },
+    {
+      "name": "Eggs",
+      "quantity": "3 large"
+    },
+    {
+      "name": "Pecorino Romano",
+      "quantity": "1/2 cup",
+      "details": "grated, plus more for serving"
+    },
+    {
+      "name": "Parsley",
+      "quantity": "1/4 cup",
+      "details": "chopped fresh"
+    },
+    {
+      "name": "Garlic",
+      "quantity": "1 clove",
+      "details": "finely chopped"
+    },
+    {
+      "name": "Vegetable oil",
+      "quantity": "as needed",
+      "details": "for frying"
+    },
+    {
+      "category": "Sauce",
+      "ingredients": [
+        {
+          "name": "Onion",
+          "quantity": "1 medium",
+          "details": "finely chopped"
+        },
+        {
+          "name": "Olive oil",
+          "quantity": "1/2 cup"
+        },
+        {
+          "name": "Canned tomatoes",
+          "quantity": "2 (28-ounce) cans",
+          "details": "imported Italian peeled tomatoes with their juice, chopped"
+        },
+        {
+          "name": "Peperoncino",
+          "quantity": "1 tiny",
+          "details": "crumbled, or a pinch of crushed red pepper"
+        },
+        {
+          "name": "Salt",
+          "quantity": "to taste"
+        },
+        {
+          "name": "Basil leaves",
+          "quantity": "6 fresh"
+        }
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "description": "Cut or tear the bread into tiny bits or grind the bread in a food processor into coarse crumbs. Soak the bread in the water for 20 minutes. Squeeze the bread to remove the excess water."
+    },
+    {
+      "step": 2,
+      "description": "In a large bowl, beat the eggs, cheese, parsley, and garlic with a pinch of salt and pepper to taste. Stir in the crumbled bread and mix very well. If the mixture seems dry, stir in another egg. Mix well. Shape the mixture into balls about the size of a golf ball."
+    },
+    {
+      "step": 3,
+      "description": "Pour enough oil to reach a depth of 1/2 inch into a large heavy skillet. Heat the oil over medium heat until a drop of the bread mixture sizzles when it is placed in the oil."
+    },
+    {
+      "step": 4,
+      "description": "Add the balls to the skillet and cook, turning carefully, until golden brown on all sides, about 10 minutes. Drain the balls on paper towels."
+    },
+    {
+      "step": 5,
+      "description": "To make the sauce, in a large saucepan, cook the onion in the olive oil over medium heat until tender. Add the tomatoes, peperoncino, and salt to taste. Simmer 15 minutes or until slightly thickened."
+    },
+    {
+      "step": 6,
+      "description": "Add the bread balls and baste them with the sauce. Simmer 15 minutes more. Sprinkle with the basil. Serve with additional cheese."
+    }
+  ],
+  "variations": []
+}

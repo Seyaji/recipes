@@ -1,0 +1,52 @@
+{
+  "id": "c11-rcu-0032",
+  "title": "Broccoli with Prosciutto",
+  "titleAlternative": "Brasato di Broccoli",
+  "yield": "Makes 4 servings",
+  "introduction": "Broccoli with Prosciutto is a delightful side dish where tender broccoli meets savory prosciutto. This versatile dish can be enjoyed on its own or spread onto toasted Italian bread for a tasty crostini.",
+  "ingredients": [
+    {
+      "quantity": "1 1/2 pounds",
+      "item": "broccoli"
+    },
+    {
+      "quantity": "",
+      "item": "Salt"
+    },
+    {
+      "quantity": "1/4 cup",
+      "item": "olive oil"
+    },
+    {
+      "quantity": "1 medium",
+      "item": "onion, chopped"
+    },
+    {
+      "quantity": "1 clove",
+      "item": "garlic, finely chopped"
+    },
+    {
+      "quantity": "4 slices",
+      "item": "imported Italian prosciutto, cut crosswise into thin strips"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "description": "Cut the broccoli into large florets. Trim off the ends of the stems. Peel off the tough skin with a swivel-blade vegetable peeler. Cut thick stems crosswise into 1/4-inch slices."
+    },
+    {
+      "step": 2,
+      "description": "Bring a large pot of water to a boil. Add the broccoli and salt to taste. Cook until the broccoli is partially done, about 5 minutes. Drain and cool under cold water."
+    },
+    {
+      "step": 3,
+      "description": "Dry the pot and add the oil, onion, and garlic. Cook over medium heat until golden, about 10 minutes. Stir in the broccoli. Cover and turn the heat to low. Cook until the broccoli is soft, about 15 minutes."
+    },
+    {
+      "step": 4,
+      "description": "Coarsely mash the broccoli with a potato masher or a fork. Stir in the prosciutto. Season to taste with salt and pepper. Serve hot."
+    }
+  ],
+  "variations": []
+}

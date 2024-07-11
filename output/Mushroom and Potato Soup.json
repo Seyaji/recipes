@@ -1,0 +1,40 @@
+
+    {
+        "id": "c03-rcu-0024",
+        "title": "Mushroom and Potato Soup",
+        "titleAlternative": "Minestra di Funghi e Patate",
+        "yield": "Makes 6 servings",
+        "introduction": "This hearty Mushroom and Potato Soup hails from the Friuli-Venezia Giulia region, famous for its exceptional mushrooms. Traditionally, fresh porcini mushrooms would be used, but in this recipe, a mix of wild and cultivated mushrooms is substituted. Potatoes and barley are added to create a delectable thickness that's both comforting and satisfying.",
+        "ingredients": [
+            "8 cups homemade Meat Broth or a mix of half store-bought broth and half water",
+            "2 tablespoons olive oil",
+            "2 ounces sliced pancetta, finely chopped",
+            "1 medium onion, finely chopped",
+            "2 celery ribs, finely chopped",
+            "1 pound assorted mushrooms, such as white, cremini, and portabello",
+            "4 tablespoons chopped fresh flat-leaf parsley",
+            "2 garlic cloves, finely chopped",
+            "3 medium boiling potatoes, peeled and chopped",
+            "Salt and freshly ground black pepper",
+            "1/2 cup pearl barley"
+        ],
+        "instructions": [
+            {
+                "step": 1,
+                "instruction": "Prepare the broth, if necessary. Pour the oil into a large pot. Add the pancetta. Cook, stirring frequently, over medium heat until golden, about 10 minutes. Add the onion and celery and cook, stirring occasionally, until softened, about 5 minutes."
+            },
+            {
+                "step": 2,
+                "instruction": "Add the mushrooms, 2 tablespoons of the parsley, and the garlic. Cook, stirring often, until the mushroom juices evaporate, about 10 minutes."
+            },
+            {
+                "step": 3,
+                "instruction": "Stir in the potatoes, salt, and pepper. Add the broth and bring to a simmer. Add the barley and cook, uncovered, over low heat for 1 hour or until the barley is tender and the soup is thickened."
+            },
+            {
+                "step": 4,
+                "instruction": "Sprinkle with the remaining parsley and serve hot."
+            }
+        ],
+        "variations": []
+    }

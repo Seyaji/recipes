@@ -1,0 +1,37 @@
+{
+  "id": "c11-rcu-0030",
+  "title": "Broccoli, Parma Style",
+  "titleAlternative": "Broccoli alla Parmigiana",
+  "yield": "Makes 4 servings",
+  "introduction": "Broccoli alla Parmigiana, or Broccoli, Parma Style, is a delightful dish that brings out the best in this nutritious vegetable. By combining the earthy flavors of broccoli with the rich saltiness of Parmigiano-Reggiano, this recipe transforms a simple vegetable into a gourmet side dish. Consider making it with a mix of cauliflower and broccoli for added variety.",
+  "ingredients": [
+    "1 1⁄2 pounds broccoli",
+    "Salt",
+    "3 tablespoons unsalted butter",
+    "Freshly ground black pepper",
+    "1⁄2 cup freshly grated Parmigiano-Reggiano"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "description": "Cut the broccoli into large florets. Trim off the ends of the stems. Peel off the tough skin with a swivel-blade vegetable peeler. Cut thick stems crosswise into 1⁄4-inch slices."
+    },
+    {
+      "step": 2,
+      "description": "Bring a large pot of water to a boil. Add the broccoli and salt to taste. Cook until the broccoli is partially done, about 5 minutes. Drain and cool under cold water."
+    },
+    {
+      "step": 3,
+      "description": "Place a rack in the center of the oven. Preheat the oven to 375°F. Butter a baking dish large enough to hold the broccoli."
+    },
+    {
+      "step": 4,
+      "description": "Arrange the spears in the prepared dish, overlapping them slightly. Dot with the butter and sprinkle with pepper. Sprinkle the cheese on top."
+    },
+    {
+      "step": 5,
+      "description": "Bake 10 minutes or until the cheese is melted and slightly browned. Serve hot."
+    }
+  ],
+  "variations": "For variety, make this dish with a combination of cauliflower and broccoli."
+}

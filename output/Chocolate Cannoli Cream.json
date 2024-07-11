@@ -1,0 +1,40 @@
+{
+  "id": "c14-rcu-0084",
+  "title": "Chocolate Cannoli Cream",
+  "titleAlternative": null,
+  "yield": "Makes about 4 cups",
+  "introduction": "Chocolate Cannoli Cream offers a rich and indulgent twist to the traditional cannoli filling. This creamy blend of ricotta, cocoa, and vanilla is perfect for filling cannoli tubes for a delightful dessert. It also works wonderfully as a filling for layer cakes or cream puffs, ensuring a versatile addition to your recipe collection.",
+  "ingredients": [
+    {
+      "amount": "2 pounds",
+      "ingredient": "whole or part-skim ricotta, drained if necessary"
+    },
+    {
+      "amount": "1 1/2 cups",
+      "ingredient": "confectioner's sugar"
+    },
+    {
+      "amount": "1/2 cup",
+      "ingredient": "unsweetened cocoa powder"
+    },
+    {
+      "amount": "1 teaspoon",
+      "ingredient": "pure vanilla extract"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "description": "In an electric mixer or food processor, combine the ricotta, sugar, cocoa, and vanilla."
+    },
+    {
+      "step": 2,
+      "description": "Mix until smooth and well blended."
+    }
+  ],
+  "variations": [
+    {
+      "description": "To make black-and-white cannoli, fill one side of the cannoli tube with vanilla filling and the other side with this chocolate filling."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c11-rcu-0044",
+  "title": "Roasted Brussels Sprouts",
+  "titleAlternative": "Cavolini al Forno",
+  "yield": "Makes 4 to 6 servings",
+  "introduction": "Roasted Brussels sprouts are a revelation with their crispy outer leaves and tender insides. When roasted to perfection, they offer a delightful combination of textures and flavors that can easily complement a variety of dishes, especially roast pork.",
+  "ingredients": [
+    "1 pound brussels sprouts",
+    "1/3 cup olive oil",
+    "Salt",
+    "3 garlic cloves, sliced"
+  ],
+  "instructions": [
+    {
+      "step": "1",
+      "description": "With a small knife, shave a thin slice off the base of the brussels sprouts. Cut them in half through the base."
+    },
+    {
+      "step": "2",
+      "description": "Preheat the oven to 375°F. Pour the oil into a roasting pan large enough to hold the sprouts in a single layer. Add the sprouts, salt, and garlic. Toss well and turn the sprouts cut-side down."
+    },
+    {
+      "step": "3",
+      "description": "Roast the sprouts, stirring once, 30 to 40 minutes, or until browned and tender. Serve hot."
+    }
+  ],
+  "variations": []
+}

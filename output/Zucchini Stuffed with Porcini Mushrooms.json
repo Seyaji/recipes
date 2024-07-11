@@ -1,0 +1,46 @@
+{
+  "id": "c11-rcu-0149",
+  "title": "Zucchini Stuffed with Porcini Mushrooms",
+  "titleAlternative": "Zucchine al Porcini",
+  "yield": "Serves 6",
+  "introduction": "The rich, earthy flavor of dried porcini mushrooms brings a deep, savory note to the fresh zucchini in this delightful recipe. A touch of nutmeg and freshly grated Parmigiano-Reggiano add complexity to the flavor profile, while the tender baked zucchini shells provide the perfect vessel for the savory stuffing. Ideal as a side or a main dish, this recipe will impress with its harmonious blend of textures and tastes.",
+  "ingredients": [
+    {"amount": "1/2 cup", "item": "dried porcini mushrooms"},
+    {"amount": "2 cups", "item": "warm water"},
+    {"amount": "6", "item": "medium zucchini"},
+    {"amount": "1", "item": "large egg, beaten"},
+    {"amount": "1/2 cup", "item": "plain bread crumbs"},
+    {"amount": "1/4 cup plus 2 tablespoons", "item": "freshly grated Parmigiano-Reggiano"},
+    {"amount": "1", "item": "garlic clove, finely chopped"},
+    {"amount": "1 tablespoon", "item": "chopped fresh flat-leaf parsley"},
+    {"amount": "Pinch", "item": "freshly grated nutmeg"},
+    {"amount": "To taste", "item": "salt and freshly ground black pepper"}
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "detail": "Soak the mushrooms in the water for 30 minutes. Remove the mushrooms and reserve the liquid. Rinse the mushrooms under cold running water to remove any grit, paying special attention to the ends of the stems where soil collects. Chop the mushrooms finely. Strain the mushroom liquid through a paper coffee filter into a clean bowl. Reserve the liquid for another use."
+    },
+    {
+      "step": 2,
+      "detail": "Scrub the zucchini with a brush under cold running water. Trim off the ends."
+    },
+    {
+      "step": 3,
+      "detail": "Place a rack in the center of the oven. Preheat the oven to 400°F. Oil a 13 × 9 × 2–inch roasting pan."
+    },
+    {
+      "step": 4,
+      "detail": "Cut the zucchini in half lengthwise. With a small spoon, scoop out the pulp, leaving a 1/4-inch shell, and set the pulp aside. Arrange the zucchini shells cut-side up in the prepared pan."
+    },
+    {
+      "step": 5,
+      "detail": "Chop the zucchini pulp and place it in a bowl with the mushrooms, egg, bread crumbs, cheese, garlic, parsley, nutmeg, and salt and pepper to taste. Spoon the mixture into the zucchini shells. Sprinkle with the remaining 2 tablespoons cheese."
+    },
+    {
+      "step": 6,
+      "detail": "Bake for 30 minutes or until the zucchini are tender when pierced with a knife and the filling is golden. Serve hot or at room temperature."
+    }
+  ],
+  "variations": []
+}

@@ -1,0 +1,36 @@
+
+  {
+    "id": "c11-rcu-0106",
+    "title": "Roasted Pepper Salad",
+    "titleAlternative": "Insalata di Peperoni Arrostiti",
+    "yield": "Makes 8 servings",
+    "introduction": "Roasted Pepper Salad is a versatile dish perfect for various occasions. Whether served as part of an antipasto assortment, paired with grilled tuna or pork, or accompanied by sliced fresh mozzarella, this salad offers a delightful combination of flavors.",
+    "ingredients": [
+      {
+        "quantity": "1 recipe (8 peppers)",
+        "description": "Roasted Peppers"
+      },
+      {
+        "quantity": "1/3 cup",
+        "description": "extra-virgin olive oil"
+      },
+      {
+        "quantity": "4",
+        "description": "basil leaves, torn into bits"
+      },
+      {
+        "quantity": "2 cloves",
+        "description": "garlic, thinly sliced"
+      },
+      {
+        "quantity": "to taste",
+        "description": "Salt and freshly ground black pepper"
+      }
+    ],
+    "instructions": [
+      "Prepare the peppers, if necessary.",
+      "Toss the peppers with the oil, basil, garlic, and salt and pepper to taste.",
+      "Let stand 1 hour before serving."
+    ],
+    "variations": []
+  }

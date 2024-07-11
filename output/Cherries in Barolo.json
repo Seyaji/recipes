@@ -1,0 +1,49 @@
+
+  {
+    "id": "c13-rcu-0007",
+    "title": "Cherries in Barolo",
+    "titleAlternative": "Ciliege al Barolo",
+    "yield": "Makes 4 servings",
+    "introduction": "Experience the taste of Piedmont with this delightful recipe where sweet, ripe cherries are simmered in rich Barolo wine. The cherries soak up the deep flavors of the red wine, creating a dessert that is both elegant and comforting.",
+    "ingredients": [
+      {
+        "amount": "3/4 cup",
+        "ingredient": "sugar"
+      },
+      {
+        "amount": "1 cup",
+        "ingredient": "Barolo or other dry red wine"
+      },
+      {
+        "amount": "1 pound",
+        "ingredient": "ripe sweet cherries, pitted"
+      },
+      {
+        "amount": "1 cup",
+        "ingredient": "heavy or whipping cream, well chilled"
+      }
+    ],
+    "instructions": [
+      {
+        "step": 1,
+        "description": "At least 20 minutes before you are ready to whip the cream, place a large bowl and the beaters of an electric mixer in the refrigerator."
+      },
+      {
+        "step": 2,
+        "description": "In a large saucepan, combine the sugar and wine. Bring to a simmer and cook for 5 minutes."
+      },
+      {
+        "step": 3,
+        "description": "Add the cherries. After the liquid returns to a simmer, cook until the cherries are tender when pierced with a knife, about 10 minutes more. Let cool."
+      },
+      {
+        "step": 4,
+        "description": "Just before serving, remove the bowl and beaters from the refrigerator. Pour the cream into the bowl and whip the cream at high speed until it holds its shape softly when the beaters are lifted, about 4 minutes."
+      },
+      {
+        "step": 5,
+        "description": "Spoon the cherries into serving bowls. Serve at room temperature or slightly chilled with whipped cream."
+      }
+    ],
+    "variations": []
+  }

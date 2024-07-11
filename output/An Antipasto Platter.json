@@ -1,0 +1,59 @@
+
+    {
+        "id": 1,
+        "title": "An Antipasto Platter",
+        "titleAlternative": "Traditional Italian Starter",
+        "yield": "Serves 4",
+        "introduction": "An assortment of antipasti is a delightful way to begin a meal, offering a range of flavors and textures from various Italian regions. Combining meats, cheeses, and preserved vegetables, this platter showcases the best of Italian starters.",
+        "ingredients": [
+            {
+                "category": "Salumi",
+                "items": [
+                    "mortadella: a specialty of Emilia-Romagna; large, mildly spiced smooth-textured pork sausage, with chunks of fat and sometimes pistachios.",
+                    "prosciutto: from all over Italy (the best-known here is from Parma or San Daniele in Friuli– Venezia Giulia); a whole pork leg cured with salt.",
+                    "capocollo: from all over Italy; cured pork shoulder, can be either mild or spiced with hot pepper.",
+                    "salami: from all over Italy; usually ground pork, though other meats may be used, with various spices and seasonings including black peppercorns, fennel seeds, crushed red pepper, wine. There are many different varieties.",
+                    "sopressata: from all over Italy; a large, wide salame made of coarsely ground lean pork and pork fat, flavored with black peppercorns, or crushed red pepper, salt, and red wine.",
+                    "pepperoni: in North America, a long, thin dried sausage made of coarsely ground pork with either black peppercorns or crushed red pepper. In Italy, the word peperoni means bell peppers, not a dried hot sausage."
+                ]
+            },
+            {
+                "category": "Cheeses",
+                "items": [
+                    "provolone: from all over Italy. Do not use the bland, sliced variety. Imported provolone is sharp and slightly smoky-flavored.",
+                    "young pecorino: mostly from central and southern Italy; semifirm and mild to sharp in flavor, depending on the variety and origin.",
+                    "fresh or smoked mozzarella: mild, soft and creamy; can be either salted or unsalted. Fresh mozzarella should be very moist and eaten the same day that it is made. Smoked mozzarella is drier, with smoky flavor and firmer texture.",
+                    "ricotta salata: a pressed and salted version of ricotta, mild, firm, and crumbly."
+                ]
+            },
+            {
+                "category": "Pickles and vegetables",
+                "items": [
+                    "marinated artichokes",
+                    "mushrooms",
+                    "dried tomatoes",
+                    "hot or mild vinegar peppers",
+                    "peperoncini",
+                    "giardiniera: mixed pickled vegetables"
+                ]
+            },
+            {
+                "category": "Garnishes",
+                "items": [
+                    "anchovy fillets",
+                    "sliced tomatoes",
+                    "cherry tomatoes",
+                    "lettuce or radicchio",
+                    "carrot and celery sticks"
+                ]
+            }
+        ],
+        "instructions": [
+            "Arrange the salumi slices decoratively on a large platter. Fold or roll up the slices for easier serving.",
+            "Place wedges of chosen cheeses on the platter.",
+            "Add marinated vegetables in small groups around the meats and cheeses.",
+            "Decorate the platter with the garnishes for a colorful and appealing presentation.",
+            "Serve with crunchy breadsticks, crusty Italian bread, or focaccia. Ensure all ingredients are at room temperature or slightly chilled for the best flavor."
+        ],
+        "variations": []
+    }

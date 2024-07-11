@@ -1,0 +1,37 @@
+{
+    "id": "c11-rcu-0113",
+    "title": "Stuffed Frying Peppers",
+    "titleAlternative": "Peperoni Ripieni",
+    "yield": "Makes 4 to 8 servings",
+    "introduction": "Discover the joy of summer flavors with Stuffed Frying Peppers, a delightful dish of tender peppers filled with a savory breadcrumb mixture, cooked to perfection and simm Simon ed in a robust tomato basil sauce. This traditional recipe brings a touch of Mediterranean cuisine to your table, perfect for sharing and enjoying.",
+    "ingredients": [
+        "1 1/4 cups plain dry bread crumbs made from Italian or French bread",
+        "1/3 cup freshly grated Pecorino Romano or Parmigiano-Reggiano",
+        "1/4 cup chopped fresh flat-leaf parsley",
+        "1 garlic clove, finely chopped",
+        "Salt and freshly ground black pepper",
+        "About 1/2 cup olive oil",
+        "8 long light-green Italian frying peppers",
+        "3 cups peeled, seeded, and chopped fresh tomatoes or 1 (28-ounce) can crushed tomatoes",
+        "6 fresh basil leaves, torn into bits"
+    ],
+    "instructions": [
+        {
+            "step": 1,
+            "description": "In a bowl, mix together the bread crumbs, cheese, parsley, garlic, and salt and pepper to taste. Stir in 3 tablespoons of the oil, or enough to moisten the crumbs evenly."
+        },
+        {
+            "step": 2,
+            "description": "Cut off the tops of the peppers and scoop out the seeds. Spoon the bread crumb mixture into the peppers, leaving about 1 inch of clearance at the top. Do not overstuff the peppers, or the filling will spill out as the peppers cook."
+        },
+        {
+            "step": 3,
+            "description": "In a large skillet, heat 1/4 cup of oil over medium heat until a piece of pepper sizzles in the pan. With tongs, add the peppers carefully. Cook, turning occasionally with tongs, until browned on all sides, about 20 minutes."
+        },
+        {
+            "step": 4,
+            "description": "Pour the tomatoes, basil, and salt and pepper to taste around the peppers. Bring to a simmer. Cover and cook, turning the peppers once or twice, until very tender, about 15 minutes. If the sauce is too dry, add a little water. Uncover and cook until the sauce is thick, about 5 minutes more. Serve warm or at room temperature."
+        }
+    ],
+    "variations": []
+}

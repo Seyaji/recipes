@@ -1,0 +1,29 @@
+{
+  "id": "c11-rcu-0079",
+  "title": "Spinach with Lemon",
+  "titleAlternative": "Spinaci al Limone",
+  "yield": "Makes 4 servings",
+  "introduction": "A drizzle of good olive oil and a few drops of fresh lemon juice perk up the flavor of cooked spinach, bringing out the best in this simple and healthy dish.",
+  "ingredients": [
+    "2 pounds fresh spinach, tough stems removed",
+    "1/4 cup water",
+    "Salt",
+    "Extra-virgin olive oil",
+    "Lemon wedges"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "instruction": "Wash the spinach well in several changes of cold water. Put the spinach, water, and a pinch of salt in a large pot. Cover the pot and turn on the heat to medium. Cook 5 minutes or until the spinach is wilted and tender. Drain the spinach and press out the excess water."
+    },
+    {
+      "step": 2,
+      "instruction": "In a serving bowl, toss the spinach with olive oil to taste."
+    },
+    {
+      "step": 3,
+      "instruction": "Serve, hot or at room temperature, garnished with lemon wedges."
+    }
+  ],
+  "variations": []
+}

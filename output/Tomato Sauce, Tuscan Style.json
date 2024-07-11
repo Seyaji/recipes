@@ -1,0 +1,35 @@
+
+  {
+    "id": "c04-rcu-0004",
+    "title": "Tomato Sauce, Tuscan Style",
+    "titleAlternative": "Salsa di Pomodoro alla Toscana",
+    "yield": "Makes 3 cups",
+    "introduction": "Tomato Sauce, Tuscan Style is a rich and flavorful Italian classic. The soffritto—a harmonious blend of onion, carrot, celery, and garlic cooked gently in olive oil—creates an aromatic base that enhances this robust sauce. Combining fresh plum tomatoes or high-quality imported canned tomatoes with a touch of chicken broth and a hint of crushed red pepper, this sauce achieves a perfect balance of savory depth and a gentle kick of heat. Finished with fragrant basil leaves, it embodies the essence of Tuscan cooking.",
+    "ingredients": [
+      "4 tablespoons olive oil",
+      "1 medium onion, finely chopped",
+      "1/2 cup chopped carrot",
+      "1/4 cup chopped celery",
+      "1 small garlic clove, minced",
+      "3 pounds fresh ripe plum tomatoes, peeled, seeded, and finely chopped, or 1 (28-ounce) can imported Italian peeled tomatoes with their juice, passed through a food mill",
+      "1/2 cup chicken broth",
+      "Pinch of crushed red pepper",
+      "Salt",
+      "2 or 3 basil leaves, torn"
+    ],
+    "instructions": [
+      {
+        "step": 1,
+        "description": "Pour the oil into a medium saucepan. Add the onion, carrot, celery, and garlic. Cook over medium heat, stirring occasionally, until the vegetables are tender and golden, about 15 minutes."
+      },
+      {
+        "step": 2,
+        "description": "Stir in the tomatoes, broth, red pepper, and salt to taste. Bring to a simmer. Partially cover the pan and cook over low heat, stirring occasionally, until thickened, about 30 minutes."
+      },
+      {
+        "step": 3,
+        "description": "Stir in the basil. Serve hot. Can be made ahead and stored in a tightly sealed container in the refrigerator up to 5 days or in the freezer up to 2 months."
+      }
+    ],
+    "variations": []
+  }

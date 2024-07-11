@@ -1,0 +1,35 @@
+{
+    "id": "c11-rcu-0007",
+    "title": "Stuffed Artichokes",
+    "titleAlternative": "Carciofi Ripieni",
+    "yield": "Makes 8 servings",
+    "introduction": "Stuffed Artichokes, also known as Carciofi Ripieni, are a delightful way to enjoy the tender, nutty flavor of artichokes enhanced with a seasoned breadcrumb mixture. This classic preparation from Southern Italy uses minimal stuffing to complement, not overpower, the natural taste of the artichoke. Perfect served warm or at room temperature, it's an elegant appetizer or side dish to any meal.",
+    "ingredients": [
+        "8 medium artichokes, prepared for stuffing",
+        "3/4 cup plain dry bread crumbs",
+        "1/4 cup chopped fresh flat-leaf parsley",
+        "1/4 cup freshly grated Pecorino Romano or Parmigiano-Reggiano",
+        "1 garlic clove, very finely chopped",
+        "Salt and freshly ground black pepper",
+        "Olive oil"
+    ],
+    "instructions": [
+        {
+            "step": 1,
+            "text": "With a large chef's knife, finely chop the artichoke stems. Mix the stems in a large bowl with the bread crumbs, parsley, cheese, garlic, and salt and pepper to taste. Add a little oil and toss to moisten the crumbs evenly. Taste and adjust the seasoning."
+        },
+        {
+            "step": 2,
+            "text": "Gently spread the leaves apart. Lightly stuff the center of the artichokes with the bread crumb mixture, also adding a little stuffing between the leaves. Do not pack the stuffing in."
+        },
+        {
+            "step": 3,
+            "text": "Stand the artichokes in a pot just wide enough to hold them upright. Add water to a depth of 3/4 inch around the artichokes. Drizzle the artichokes with 3 tablespoons olive oil."
+        },
+        {
+            "step": 4,
+            "text": "Cover the pot and place it over medium heat. When the water comes to a simmer, reduce the heat to low. Cook about 40 to 50 minutes (depending on the size of the artichokes) or until the artichoke bottoms are tender when pierced with a knife and a leaf pulls out easily. Add additional warm water if needed to prevent scorching. Serve warm or at room temperature."
+        }
+    ],
+    "variations": []
+}

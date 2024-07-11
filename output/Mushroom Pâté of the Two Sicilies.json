@@ -1,0 +1,34 @@
+
+    {
+        "id": "c01-rcu-0021",
+        "title": "Mushroom Pâté of the Two Sicilies",
+        "titleAlternative": "Pâté delle Due Sicilie",
+        "yield": "Makes 6 to 8 servings",
+        "introduction": "Mushroom Pâté of the Two Sicilies is a delectable spread hailing from southern Italy, influenced by the sophisticated culinary traditions of French-trained chefs serving aristocratic families in the eighteenth and nineteenth centuries. With a savory blend of mushrooms, enhanced by the richness of Marsala and the briny flavors of olives and capers, this pâté pairs splendidly with toasted Italian or French bread.",
+        "ingredients": [
+            "2 tablespoons unsalted butter",
+            "12 ounces mushrooms, trimmed and sliced",
+            "1/2 teaspoon chopped fresh thyme",
+            "Salt and freshly ground black pepper",
+            "1/4 cup dry Marsala",
+            "2 tablespoons black olive paste or chopped mild black olives, such as Gaeta",
+            "1 tablespoon capers, rinsed and drained",
+            "2/3 cup heavy cream",
+            "Toasted thin-sliced Italian or French bread"
+        ],
+        "instructions": [
+            {
+                "step": 1,
+                "description": "In a large skillet, melt the butter over medium heat. Add the mushrooms, thyme, and salt and pepper to taste. Cook, stirring frequently, until the mushrooms release their juices. Raise the heat and cook until the liquid has evaporated, about 10 minutes."
+            },
+            {
+                "step": 2,
+                "description": "Add the Marsala and simmer until evaporated. Stir in the olives and capers. Cook 5 minutes more. Stir in the cream and cook until evaporated. Let cool."
+            },
+            {
+                "step": 3,
+                "description": "Scrape the mixture into a food processor or blender. Process until smooth. Pack the mixture into a small bowl. Serve at room temperature with toasted or grilled bread."
+            }
+        ],
+        "variations": []
+    }

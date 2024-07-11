@@ -1,0 +1,33 @@
+
+  {
+    "id": "c10-rcu-0117",
+    "title": "Lamb Shanks in Tomato Sauce",
+    "titleAlternative": "Stinco di Agnello al Pomodoro",
+    "yield": "Makes 6 servings",
+    "introduction": "Lamb Shanks in Tomato Sauce is a delectable dish where tender lamb shanks are slowly braised in a rich tomato and wine sauce. Ideal for a hearty meal, this flavorful dish brings out the succulence of lamb perfectly complemented by aromatic rosemary and garlic.",
+    "ingredients": [
+      "6 small lamb shanks, well trimmed",
+      "2 tablespoons olive oil",
+      "2 garlic cloves, thinly sliced",
+      "1 tablespoon chopped fresh rosemary",
+      "1/2 cup dry white wine",
+      "1 cup chopped peeled tomatoes",
+      "1 1/2 cups beef broth",
+      "2 tablespoons chopped fresh flat-leaf parsley"
+    ],
+    "instructions": [
+      {
+        "step": 1,
+        "description": "In a Dutch oven large enough to hold the shanks in a single layer, or another deep, heavy pot with a tight-fitting lid, heat the oil. Brown the meat on all sides, about 15 minutes. Spoon off the excess fat. Sprinkle the shanks with salt and pepper."
+      },
+      {
+        "step": 2,
+        "description": "Add the garlic and rosemary to the pan and cook 1 minute. Add the wine and bring to a simmer. Add the tomatoes and broth. Reduce the heat to low, cover the pan, and cook the shanks, turning them occasionally, about 1 1/2 hours or until the meat is fork tender and comes away easily from the bone."
+      },
+      {
+        "step": 3,
+        "description": "Sprinkle with parsley and serve hot."
+      }
+    ],
+    "variations": []
+  }

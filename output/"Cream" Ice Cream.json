@@ -1,0 +1,38 @@
+
+  {
+    "id": "c13-rcu-0065",
+    "title": "\"Cream\" Ice Cream",
+    "titleAlternative": "Gelato di Crema",
+    "yield": "Makes 6 to 8 servings",
+    "introduction": "A hint of lemon flavors this light, fresh-tasting gelato. It pairs beautifully with in-season local strawberries, making for a delightful summer treat.",
+    "ingredients": [
+      "3 cups whole milk",
+      "4 egg yolks",
+      "2/3 cup sugar",
+      "1 teaspoon pure vanilla extract",
+      "1 teaspoon grated lemon zest"
+    ],
+    "instructions": [
+      {
+        "step": 1,
+        "description": "In a medium saucepan, heat the milk over medium heat until small bubbles form around the edge of the pan. Do not boil the milk. Remove from the heat."
+      },
+      {
+        "step": 2,
+        "description": "In a heatproof mixing bowl, whisk the egg yolks and sugar until thick and well blended. Add the hot milk, slowly at first, and whisk constantly until all the milk has been blended in. Stir in the lemon zest."
+      },
+      {
+        "step": 3,
+        "description": "Pour the mixture back into the saucepan. Place the saucepan over medium heat. Cook, stirring constantly with a wooden spoon, until steam begins to rise from the pot and the cream thickens slightly, about 5 minutes."
+      },
+      {
+        "step": 4,
+        "description": "Pour the cream through a mesh strainer into a bowl. Add the vanilla. Let cool slightly, then cover and refrigerate until completely chilled, about 1 hour."
+      },
+      {
+        "step": 5,
+        "description": "Freeze in an ice-cream maker according to the manufacturer's instructions. Pack the ice cream into a plastic container, cover, and freeze up to 24 hours."
+      }
+    ],
+    "variations": []
+  }

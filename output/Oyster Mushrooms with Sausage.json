@@ -1,0 +1,41 @@
+
+  {
+    "id": "c11-rcu-0095",
+    "title": "Oyster Mushrooms with Sausage",
+    "titleAlternative": "Funghi al Salsiccie",
+    "yield": "Makes 4 servings",
+    "introduction": "This hearty dish combines the delicate flavor of oyster mushrooms with the savory goodness of Italian sweet pork sausages. Perfectly seasoned with garlic, shallots, and a hint of crushed red pepper, this recipe is a tribute to traditional Italian cooking, made even better with a touch of fresh, chopped tomatoes. Whether served as a side dish with crusty Italian bread or as a main course, this dish is sure to delight.",
+    "ingredients": [
+      "1 pound oyster mushrooms",
+      "2 tablespoons olive oil",
+      "2 garlic cloves, finely chopped",
+      "2 shallots, finely chopped",
+      "8 ounces Italian sweet pork sausages, casings removed",
+      "Salt",
+      "Pinch of crushed red pepper",
+      "1 cup peeled, seeded, and chopped fresh tomatoes"
+    ],
+    "instructions": [
+      {
+        "step": 1,
+        "description": "Wipe the mushrooms with dampened paper towels. Tear the mushrooms into thin strips along the gills."
+      },
+      {
+        "step": 2,
+        "description": "Pour the oil into a large skillet. Add the garlic and shallots and cook until softened, about 2 minutes. Stir in the sausage and cook, stirring frequently, until browned."
+      },
+      {
+        "step": 3,
+        "description": "Add mushrooms, salt to taste, and crushed red pepper and stir well. Add the tomatoes and 1/4 cup of water. Bring to a simmer."
+      },
+      {
+        "step": 4,
+        "description": "Turn the heat to low and cover the pan. Cook, stirring occasionally, 30 minutes or until the sausage is tender and the sauce is thickened. Serve hot."
+      }
+    ],
+    "variations": [
+      {
+        "variation": "Cultivated oyster mushrooms can be used in this recipe, or substitute sliced white mushrooms."
+      }
+    ]
+  }

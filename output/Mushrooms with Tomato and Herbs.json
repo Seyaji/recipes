@@ -1,0 +1,28 @@
+
+    {
+        "id": "c11-rcu-0090",
+        "title": "Mushrooms with Tomato and Herbs",
+        "titleAlternative": "Funghi al Pomodoro",
+        "yield": "Makes 4 servings",
+        "introduction": "Experience the rich flavors of mushrooms cooked to perfection with garlic, tomato, and rosemary. This savory dish makes a delightful pairing with pork chops or steak, bringing an Italian flair to your meal.",
+        "ingredients": [
+            "1 pound white mushrooms",
+            "1/4 cup olive oil",
+            "1 garlic clove, finely chopped",
+            "1 teaspoon chopped fresh rosemary",
+            "1 large tomato, peeled, seeded, and chopped",
+            "Salt and freshly ground black pepper",
+            "2 tablespoons chopped fresh flat-leaf parsley"
+        ],
+        "instructions": [
+            {
+                "step": 1,
+                "description": "Wipe the mushrooms clean with damp paper towels. Snap off the stems of the mushrooms and trim the ends where soil collects. Cut the mushrooms into halves or quarters. In a large skillet, heat the oil over medium heat. Add the mushrooms, garlic, and rosemary. Cook, stirring frequently, until the mushrooms are browned, about 10 minutes."
+            },
+            {
+                "step": 2,
+                "description": "Add the tomato and salt and pepper to taste. Cook until the juices evaporate, about 5 minutes more. Stir in the parsley and serve immediately."
+            }
+        ],
+        "variations": []
+    }

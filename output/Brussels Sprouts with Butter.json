@@ -1,0 +1,31 @@
+{
+  "id": "c11-rcu-0043",
+  "title": "Brussels Sprouts with Butter",
+  "titleAlternative": "Cavolini di Bruxelles al Burro",
+  "yield": "Makes 4 to 6 servings",
+  "introduction": "Brussels Sprouts with Butter is a savory dish that highlights the naturally nutty and sweet flavor of Brussels sprouts. The key to this recipe is not overcooking the sprouts to maintain their delicate flavor and pleasing texture. Enhance this delicious side dish with a hint of lemon juice, fresh herbs, or even a sprinkle of Parmigiano-Reggiano for a touch of elegance. It's simple yet sophisticated, perfect for any meal.",
+  "ingredients": [
+    "1 pound brussels sprouts",
+    "Salt",
+    "2 tablespoons unsalted butter",
+    "Freshly ground black pepper"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "description": "With a small knife, shave a thin slice off the base of the brussels sprouts. Cut them in half through the base."
+    },
+    {
+      "step": 2,
+      "description": "Bring a large pot of water to a boil. Add the brussels sprouts and salt to taste. Cook until the sprouts are tender when pierced with a knife, 6 to 8 minutes."
+    },
+    {
+      "step": 3,
+      "description": "Melt the butter in a large skillet over medium heat. Add the sprouts and salt and pepper to taste. Cook 2 to 3 minutes, shaking the pan occasionally. Serve hot."
+    }
+  ],
+  "variations": [
+    "Add lemon juice, herbs, garlic, or mustard to the butter.",
+    "Sprinkle with Parmigiano-Reggiano and cover for a minute until the cheese melts."
+  ]
+}

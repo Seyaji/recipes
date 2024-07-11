@@ -1,0 +1,24 @@
+{
+  "id": "c11-rcu-0151",
+  "title": "Fried Zucchini",
+  "titleAlternative": "Zucchine Fritte",
+  "yield": "Makes 6 servings",
+  "introduction": "Fried zucchini is a delicious and crispy way to enjoy this versatile vegetable. The beer batter used in this recipe provides great flavor, color, and a light texture, making it perfect not only for zucchini but also for fish, onion rings, and other vegetables.",
+  "ingredients": [
+    { "quantity": "6", "item": "small zucchini" },
+    { "quantity": "1 cup", "item": "all-purpose flour" },
+    { "quantity": "2", "item": "large eggs" },
+    { "quantity": "1/4 cup", "item": "beer" },
+    { "quantity": "as needed", "item": "Vegetable oil for frying" },
+    { "quantity": "to taste", "item": "Salt" }
+  ],
+  "instructions": [
+    "Scrub the zucchini with a brush under cold running water. Trim off the ends. Cut the zucchini into 2 × 1/4 × 1/4–inch strips.",
+    "Spread the flour on a sheet of wax paper. In a medium shallow bowl, beat the eggs until foamy. Beat in the beer until well blended.",
+    "Pour about 2 inches of the oil into a deep heavy saucepan or into a deep-fryer following the manufacturer's instructions. Heat the oil over medium heat until a drop of egg mixture sizzles when added to the pan and the temperature reaches 370°F on a frying thermometer.",
+    "Dredge about one-quarter of the zucchini strips in flour, then dip them in the egg mixture.",
+    "Holding the zucchini with tongs, let the excess batter drip off, then place the zucchini in the oil one piece at a time. Add only as many as will fit without crowding. Fry the zucchini until crisp and golden brown, about 2 minutes. Remove the zucchini with a slotted spoon. Drain on paper towels. Keep warm in a low oven while frying the remainder.",
+    "Sprinkle with salt and serve hot."
+  ],
+  "variations": []
+}

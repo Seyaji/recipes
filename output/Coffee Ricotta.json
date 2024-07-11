@@ -1,0 +1,37 @@
+{
+  "id": "c13-rcu-0033",
+  "title": "Coffee Ricotta",
+  "titleAlternative": "Ricotta all' Caffè",
+  "yield": "Makes 2 to 3 servings",
+  "introduction": "Coffee Ricotta is a quick and versatile dessert that pairs perfectly with plain butter cookies. The finely ground espresso mixed with ricotta offers a smooth, rich flavor, creating a delightful treat to satisfy your sweet tooth.",
+  "ingredients": [
+    {
+      "quantity": "1 cup",
+      "name": "whole or part-skim ricotta",
+      "note": "(8 ounces)"
+    },
+    {
+      "quantity": "1 tablespoon",
+      "name": "finely ground (espresso) coffee"
+    },
+    {
+      "quantity": "1 tablespoon",
+      "name": "sugar"
+    },
+    {
+      "name": "Chocolate shavings",
+      "quantity": "",
+      "note": ""
+    }
+  ],
+  "instructions": [
+    "In a medium bowl, whisk together the ricotta, espresso, and sugar until the mixture is smooth and the sugar is dissolved. (For a creamier texture, mix the ingredients in a food processor.)",
+    "Spoon into parfait glasses or goblets and top with chocolate shavings.",
+    "Serve immediately."
+  ],
+  "variations": [
+    {
+      "description": "For chocolate ricotta, substitute 1 tablespoon unsweetened cocoa for the coffee."
+    }
+  ]
+}

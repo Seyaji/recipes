@@ -1,0 +1,53 @@
+
+  {
+    "id": "c05-rcu-0066",
+    "title": "Sophia Loren's Baked Pasta",
+    "titleAlternative": "Pasta al Forno alla Loren",
+    "yield": "Makes 8 to 10 servings",
+    "introduction": "This savory baked pasta dish, inspired by the legendary actress Sophia Loren, showcases the perfect blend of two rich sauces and pasta, making it an ideal meal for gatherings. Whether served at a festive occasion or a casual family dinner, every bite promises to be a delightful experience.",
+    "ingredients": [
+      {
+        "quantity": "4 cups",
+        "item": "Bologna-Style Sauce or other meat and tomato sauce"
+      },
+      {
+        "quantity": "4 cups",
+        "item": "Béchamel Sauce"
+      },
+      {
+        "quantity": "",
+        "item": "Salt"
+      },
+      {
+        "quantity": "1½ pounds",
+        "item": "penne, ziti, or mostaccioli"
+      },
+      {
+        "quantity": "1 cup",
+        "item": "freshly grated Parmigiano-Reggiano"
+      }
+    ],
+    "instructions": [
+      {
+        "step": 1,
+        "instruction": "Prepare the two sauces, if necessary. Then, butter a 13 × 9 × 2–inch baking pan."
+      },
+      {
+        "step": 2,
+        "instruction": "Bring at least 4 quarts of water to a boil in a large pot. Add 2 tablespoons of salt, then the pasta. Stir well. Cook over high heat, stirring frequently, until the pasta is almost tender. Drain the pasta."
+      },
+      {
+        "step": 3,
+        "instruction": "Place a rack in the center of the oven. Preheat the oven to 400°F. Set aside ¼ cup of the cheese. Toss the pasta with half of the Bolognese sauce. Spread about one-third of the pasta in the pan. Spoon on about one-third of the Béchamel sauce and cheese. Dot with additional Bolognese sauce."
+      },
+      {
+        "step": 4,
+        "instruction": "Repeat, adding two more layers, using all of the ingredients. Sprinkle with the reserved cheese."
+      },
+      {
+        "step": 5,
+        "instruction": "Cover the pan with foil. Bake until bubbling around the edges and the blade of a thin knife inserted into the center feels hot, about 45 minutes. Uncover and bake 15 minutes more. Remove the pasta from the oven. Cool 15 minutes on a wire rack. Serve hot."
+      }
+    ],
+    "variations": []
+  }

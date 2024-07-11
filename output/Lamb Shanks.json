@@ -1,0 +1,39 @@
+{
+  "id": 1,
+  "title": "Lamb Shanks",
+  "titleAlternative": "",
+  "yield": "Serves 4",
+  "introduction": "Lamb shanks are a delightful, hearty dish perfect for cooler evenings. Slow-cooked to perfection, this meal offers tender meat that falls off the bone, bathed in a rich, savory sauce.",
+  "ingredients": [
+    "4 lamb shanks",
+    "Salt and pepper to taste",
+    "2 tablespoons olive oil",
+    "1 large onion, chopped",
+    "2 carrots, peeled and chopped",
+    "3 cloves garlic, minced",
+    "1 cup red wine",
+    "2 cups beef stock",
+    "1 can (14.5 ounces) diced tomatoes",
+    "2 tablespoons tomato paste",
+    "1 teaspoon dried rosemary",
+    "1 teaspoon dried thyme",
+    "2 bay leaves",
+    "1 cup pearl barley",
+    "1/4 cup chopped fresh parsley"
+  ],
+  "instructions": [
+    "Season the lamb shanks with salt and pepper.",
+    "In a large pot, heat the olive oil over medium-high heat. Brown the lamb shanks on all sides, then remove them from the pot and set aside.",
+    "Add the onion, carrots, and garlic to the pot. Sauté until the vegetables are tender.",
+    "Pour in the red wine and bring it to a boil, scraping up any browned bits from the bottom of the pot.",
+    "Add the beef stock, diced tomatoes, tomato paste, rosemary, thyme, and bay leaves. Stir to combine.",
+    "Return the lamb shanks to the pot, then reduce the heat to low and simmer, covered, for about 2 to 2 and a half hours, or until the lamb is tender.",
+    "About 30 minutes before the cooking time is up, stir in the pearl barley.",
+    "Remove the bay leaves and discard them. Adjust seasoning with salt and pepper, if necessary.",
+    "Garnish with chopped fresh parsley before serving."
+  ],
+  "variations": [
+    "For a Moroccan twist, add a teaspoon of ground cumin, ground coriander, and a pinch of saffron.",
+    "Add some chopped potatoes and bell peppers for extra heartiness."
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "c06-rcu-0004",
+  "title": "Risotto with Red Peppers",
+  "titleAlternative": "Risotto con Peperoni Rossi",
+  "yield": "Makes 6 servings",
+  "introduction": "At the height of the season when brilliant red bell peppers are piled high at the greengrocer, they bring a sweet, mellow flavor and a burst of gorgeous color to many dishes. This recipe utilizes red bell peppers in a creamy risotto, providing a vibrant twist on a classic. Yellow or orange peppers would also make excellent substitutes.",
+  "ingredients": [
+    "5 cups Chicken Broth",
+    "3 tablespoons unsalted butter",
+    "1 tablespoon olive oil",
+    "1 small onion, finely chopped",
+    "2 red bell peppers, seeded and finely chopped",
+    "2 cups medium-grain rice, such as Arborio, Carnaroli, or Vialone Nano",
+    "Salt and freshly ground black pepper",
+    "1/2 cup freshly grated Parmigiano-Reggiano"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "description": "Prepare the broth, if necessary. Bring the broth to a simmer over medium heat, then lower the heat to keep it hot. In a wide heavy saucepan, heat 2 tablespoons of the butter and the oil over medium heat. When the butter is melted, add the onion and cook, stirring often until golden, about 10 minutes. Add the peppers and cook for 10 more minutes."
+    },
+    {
+      "step": 2,
+      "description": "Add the rice and stir with a wooden spoon until hot, about 2 minutes. Add 1/2 cup of the hot broth and stir until the liquid is absorbed. Continue adding the broth 1/2 cup at a time, stirring after each addition. Adjust the heat so that the liquid simmers rapidly but the rice doesn't stick to the pan. About halfway through the cooking, add salt and pepper to taste."
+    },
+    {
+      "step": 3,
+      "description": "Use only as much of the broth as needed until the rice becomes tender yet firm to the bite and the risotto is creamy. Taste a few grains to check doneness; if not ready, test again in a minute or so. If the liquid runs out before the rice is cooked, finish the cooking with hot water. Cooking time will be 18 to 20 minutes."
+    },
+    {
+      "step": 4,
+      "description": "Remove the risotto pan from the heat. Stir in the remaining tablespoon of butter and the cheese until melted and creamy. Taste for seasoning and serve immediately."
+    }
+  ],
+  "variations": []
+}

@@ -1,0 +1,40 @@
+
+    {
+        "id": "c01-rcu-0025",
+        "title": "Roasted Pepper Rolls",
+        "titleAlternative": "Involtini di Peperoni",
+        "yield": "Makes 8 servings",
+        "introduction": "Roasted Pepper Rolls are a delightful way to enjoy the sweet and smoky flavors of bell peppers, perfectly complemented by the creamy richness of mozzarella. This dish, inspired by a classic recipe from Sorrento, combines roasted peppers with a fresh tomato and basil filling, all topped with melted cheese for a mouth-watering treat.",
+        "ingredients": [
+            "4 large red or yellow bell peppers",
+            "2 large ripe tomatoes, peeled, seeded, and chopped",
+            "1/4 cup freshly grated Pecorino Romano",
+            "2 tablespoons chopped fresh basil",
+            "2 tablespoons olive oil",
+            "Salt and freshly ground black pepper",
+            "8 ounces fresh mozzarella"
+        ],
+        "instructions": [
+            {
+                "step": 1,
+                "text": "Place a rack in the center of the oven. Preheat the oven to 450°F. Cut the peppers in half lengthwise and cut away the cores, stems, and white membranes. Place the peppers cut side down on a roasting pan. Bake 25 minutes, or until the skins are wrinkled and the peppers are tender when pierced with a knife. Place the peppers in a bowl and cover with plastic wrap. Let cool. Remove the skin."
+            },
+            {
+                "step": 2,
+                "text": "When ready to bake the peppers, reheat the oven to 450°F. Oil a large baking dish."
+            },
+            {
+                "step": 3,
+                "text": "Stir together the tomatoes, pecorino, basil, oil, salt, and pepper to taste. Set aside 1/2 cup. Stir the mozzarella into the remaining tomatoes."
+            },
+            {
+                "step": 4,
+                "text": "Divide the mozzarella and tomato filling among the pepper halves. Fold over the ends to enclose the filling. Place the rolls in the prepared pan. Spoon on the reserved tomato mixture."
+            },
+            {
+                "step": 5,
+                "text": "Bake for 15 minutes or until the cheese is melted. Serve hot."
+            }
+        ],
+        "variations": []
+    }

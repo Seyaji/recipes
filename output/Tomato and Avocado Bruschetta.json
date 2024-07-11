@@ -1,0 +1,35 @@
+{
+  "id": "c01-rcu-0049",
+  "title": "Tomato and Avocado Bruschetta",
+  "titleAlternative": "Bruschetta di Pomodori e Avocado",
+  "yield": "Makes 8",
+  "introduction": "Tomato and Avocado Bruschetta is a delightful fusion that brings together the creaminess of avocado with the refreshing tang of ripe tomatoes. Complemented by the richness of extra-virgin olive oil and the zest of fresh lemon juice, this topping is perfect on crispy Italian bread, making it an exceptional starter for any meal.",
+  "ingredients": [
+    "2 medium ripe tomatoes",
+    "3 tablespoons extra-virgin olive oil",
+    "1 tablespoon chopped red onion",
+    "Salt and freshly ground black pepper",
+    "1/2 medium ripe Hass avocado, diced",
+    "1 to 2 tablespoons fresh lemon juice",
+    "4 to 8 (1/2-inch-thick) slices Italian bread"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "description": "Cut the tomato in half through the stem end. Cut away the core. Squeeze out the seeds and juice. Chop the tomato into 1/2-inch pieces."
+    },
+    {
+      "step": 2,
+      "description": "In a medium bowl toss the tomatoes with the oil, onion, and salt and pepper to taste. Stir in the avocado and lemon juice."
+    },
+    {
+      "step": 3,
+      "description": "Place a barbecue grill or broiler rack about 5 inches away from the heat source. Preheat the grill or broiler."
+    },
+    {
+      "step": 4,
+      "description": "Toast the bread on one side until golden brown, about 2 minutes. Turn the bread and toast the other side, about 2 minutes. Top with the tomato mixture. Serve immediately."
+    }
+  ],
+  "variations": []
+}

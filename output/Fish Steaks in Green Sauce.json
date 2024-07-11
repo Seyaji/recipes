@@ -1,0 +1,60 @@
+{
+  "id": "c08-rcu-0027",
+  "title": "Fish Steaks in Green Sauce",
+  "titleAlternative": "Pesce in Salsa Verde",
+  "yield": "Makes 4 servings",
+  "introduction": "Fish Steaks in Green Sauce is a delightful Venetian dish that combines fish steaks sautéed to golden perfection and paired with a vibrant parsley and white wine sauce. The addition of sweet green peas makes it a complete and flavorful meal, bringing a touch of Venice right to your table.",
+  "ingredients": [
+    {
+      "quantity": "1/2 cup",
+      "item": "all-purpose flour"
+    },
+    {
+      "quantity": "to taste",
+      "item": "Salt and freshly ground black pepper"
+    },
+    {
+      "quantity": "4",
+      "item": "halibut, tilefish, or other white fish steaks, about 1 inch thick"
+    },
+    {
+      "quantity": "4 tablespoons",
+      "item": "olive oil"
+    },
+    {
+      "quantity": "4",
+      "item": "green onions, finely chopped"
+    },
+    {
+      "quantity": "3/4 cup",
+      "item": "dry white wine"
+    },
+    {
+      "quantity": "1/4 cup",
+      "item": "chopped fresh flat-leaf parsley"
+    },
+    {
+      "quantity": "1 cup",
+      "item": "fresh or frozen baby peas"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "description": "On a piece of wax paper, combine the flour and salt and pepper to taste. Rinse the fish and pat dry, then dredge each steak in the flour mixture to lightly coat both sides. Shake off the excess."
+    },
+    {
+      "step": 2,
+      "description": "In a large skillet, heat 2 tablespoons of the oil over medium heat. Add the fish and brown on one side, about 3 minutes. Turn the fish and brown the other side, about 2 minutes. With a slotted metal spatula, transfer the steaks to a plate. Wipe out the skillet."
+    },
+    {
+      "step": 3,
+      "description": "Pour the remaining 2 tablespoons oil into the skillet. Add the onions. Cook over medium heat until golden, about 10 minutes. Add the wine and bring to a simmer. Cook until most of the liquid is evaporated, about 1 minute. Stir in the parsley."
+    },
+    {
+      "step": 4,
+      "description": "Return the fish to the skillet and baste it with the sauce. Scatter the peas around the fish. Reduce the heat to low. Cover and cook 5 to 7 minutes or until the fish is just barely opaque when cut in the thickest part. Serve immediately."
+    }
+  ],
+  "variations": []
+}

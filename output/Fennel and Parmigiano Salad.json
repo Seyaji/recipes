@@ -1,0 +1,30 @@
+
+  {
+    "id": "c02-rcu-0018",
+    "title": "Fennel and Parmigiano Salad",
+    "titleAlternative": "Insalata di Finocchio e Parmigiano",
+    "yield": "Makes 4 servings",
+    "introduction": "The mild licorice flavor of the fennel, the tang of the lemon, and the fresh taste of the parsley balance wonderfully in this salad. It would be a perfect first course for a seafood meal, or serve it for a buffet dinner. The crisp fennel holds up well without wilting. For really thinly sliced fennel, use a mandoline slicer or food processor.",
+    "ingredients": [
+      "2 medium fennel bulbs, trimmed",
+      "2 tablespoons chopped fresh flat-leaf parsley",
+      "3 tablespoons olive oil",
+      "1 to 2 tablespoons fresh lemon juice",
+      "A small wedge of Parmigiano-Reggiano"
+    ],
+    "instructions": [
+      {
+        "step": 1,
+        "description": "Cut the fennel in half lengthwise and remove the core. With a mandoline slicer or a food processor fitted with narrowest blade, cut the halves crosswise into very thin slices."
+      },
+      {
+        "step": 2,
+        "description": "In a bowl, toss the fennel with the parsley, oil, lemon juice, and salt and pepper to taste. Taste and adjust seasoning. Pile the salad onto 4 plates."
+      },
+      {
+        "step": 3,
+        "description": "With a swivel-blade vegetable peeler, shave the Parmigiano into thin flakes and scatter them over the salad. Serve immediately."
+      }
+    ],
+    "variations": []
+  }

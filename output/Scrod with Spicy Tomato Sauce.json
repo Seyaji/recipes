@@ -1,0 +1,36 @@
+{
+  "id": "c08-rcu-0023",
+  "title": "Scrod with Spicy Tomato Sauce",
+  "titleAlternative": "Merluzzo in Salsa di Pomodoro",
+  "yield": "Makes 4 servings",
+  "introduction": "Scrod with Spicy Tomato Sauce is a delightful seafood dish that brings the flavors of Naples right to your kitchen. This recipe combines tender scrod fillets with a rich and spicy tomato sauce, enhanced by a hint of lemon zest. Perfectly paired with couscous or a glass of Falanghina wine, this dish makes for a memorable meal.",
+  "ingredients": [
+    "2 tablespoons olive oil",
+    "1 medium onion, thinly sliced",
+    "Pinch of crushed red pepper",
+    "2 cups canned tomatoes with their juice, chopped",
+    "Pinch of dried oregano, crumbled",
+    "Salt",
+    "1¼ pounds scrod or grouper fillets, cut into serving pieces",
+    "½ teaspoon grated lemon zest"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "description": "Pour the oil into a medium skillet. Add the onion and red pepper. Cook, stirring often, over medium heat, until the onion is tender and golden, about 10 minutes. Add the tomatoes, oregano, and salt and simmer until the sauce is thickened, about 15 minutes."
+    },
+    {
+      "step": 2,
+      "description": "Rinse the fish and pat dry, then sprinkle it with salt. Add the fish to the pan and baste it with the sauce. Cover and cook 8 to 10 minutes, depending on the thickness of the fish, until it is just barely opaque when cut in the thickest part."
+    },
+    {
+      "step": 3,
+      "description": "With a slotted spoon, transfer the fish to a serving platter. If the fish has released a lot of liquid, raise the heat under the pan and cook, stirring frequently, until the sauce is thickened."
+    },
+    {
+      "step": 4,
+      "description": "Remove the sauce from the heat and stir in the lemon zest. Spoon the sauce over the fish and serve immediately."
+    }
+  ],
+  "variations": []
+}

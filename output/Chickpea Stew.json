@@ -1,0 +1,32 @@
+
+  {
+    "id": "c11-rcu-0025",
+    "title": "Chickpea Stew",
+    "titleAlternative": "Ceci in Zimino",
+    "yield": "Makes 4 to 6 servings",
+    "introduction": "This hearty chickpea stew is a versatile dish that stands out on its own. For a comforting twist, add cooked small pasta or rice with some additional water or broth to create a delicious soup.",
+    "ingredients": [
+      "1 medium onion, chopped",
+      "1 garlic clove, finely chopped",
+      "4 tablespoons olive oil",
+      "1 pound Swiss chard or spinach, trimmed and chopped",
+      "Salt and freshly ground black pepper",
+      "3 1⁄2 cups drained cooked or canned chickpeas",
+      "Extra-virgin olive oil"
+    ],
+    "instructions": [
+      {
+        "step": 1,
+        "description": "In a medium saucepan, cook the onion and garlic in the oil over medium heat until golden, about 10 minutes. Add the Swiss chard and salt to taste. Cover and cook for 15 minutes."
+      },
+      {
+        "step": 2,
+        "description": "Add the chickpeas with some of their cooking liquid or water, and season with salt and pepper to taste. Cover and cook for 30 minutes more. Stir occasionally, mashing some of the chickpeas with the back of a spoon. Add a little more liquid if the mixture becomes too dry."
+      },
+      {
+        "step": 3,
+        "description": "Let cool slightly before serving. Drizzle with a little extra-virgin olive oil if desired."
+      }
+    ],
+    "variations": []
+  }

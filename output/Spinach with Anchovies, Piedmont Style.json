@@ -1,0 +1,29 @@
+{
+  "id": "c11-rcu-0082",
+  "title": "Spinach with Anchovies, Piedmont Style",
+  "titleAlternative": "Spinaci alla Piemontesa",
+  "yield": "Makes 6 servings",
+  "introduction": "This savory spinach dish from the Piedmont region is a delightful combination of fresh spinach, butter, anchovies, and garlic. Traditionally served on slices of bread fried in butter, it also stands well on its own or topped with fried or poached eggs.",
+  "ingredients": [
+    "2 pounds fresh spinach, tough stems removed",
+    "1/4 cup water",
+    "Salt",
+    "1/4 cup unsalted butter",
+    "4 anchovy fillets",
+    "1 garlic clove, finely chopped"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "description": "Wash the spinach well in several changes of cold water. Put the spinach, water, and a pinch of salt in a large pot. Cover the pot and turn on the heat to medium. Cook for 5 minutes or until the spinach is wilted and tender. Drain the spinach and press out the excess water."
+    },
+    {
+      "step": 2,
+      "description": "Wipe out the pot. Melt the butter in the pot. Add the anchovies and garlic and cook, stirring, until the anchovies dissolve, about 2 minutes. Stir in the spinach and cook, stirring constantly, until heated through, 2 to 3 minutes. Serve hot."
+    }
+  ],
+  "variations": [
+    "Serve on slices of bread fried in butter.",
+    "Top with fried or poached eggs."
+  ]
+}

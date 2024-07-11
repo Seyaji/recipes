@@ -1,0 +1,35 @@
+{
+    "id": "c08-rcu-0039",
+    "title": "Salt Cod, Pizza Style",
+    "titleAlternative": "Baccala alla Pizzaiola",
+    "yield": "Makes 6 to 8 servings",
+    "introduction": "In Naples, tomatoes, garlic, and oregano come together to create the delightful flavors of pizza sauce, bringing a unique zest to the hearty salt cod in this traditional dish. Enhance the sauce with olives or anchovy fillets for an extra burst of taste.",
+    "ingredients": [
+        "2 pounds soaked salt cod, cut into serving pieces",
+        "4 tablespoons olive oil",
+        "2 large garlic cloves, very finely chopped",
+        "2 tablespoons chopped fresh flat-leaf parsley",
+        "Pinch of crushed red pepper",
+        "3 cups peeled, seeded, and chopped fresh tomatoes, or 1 (28-ounce) can Italian peeled tomatoes, drained and chopped",
+        "2 tablespoons capers, rinsed, drained, and chopped",
+        "1 teaspoon dried oregano, crumbled",
+        "Salt"
+    ],
+    "instructions": [
+        {
+            "step": 1,
+            "text": "Bring about 2 inches of water to a simmer in a deep skillet. Add the fish and cook until the fish is tender but does not break apart, about 10 minutes. Remove the fish with a slotted spoon and drain."
+        },
+        {
+            "step": 2,
+            "text": "Pour the oil into a large skillet with the garlic, parsley, and crushed red pepper. Cook until the garlic is lightly golden, about 2 minutes. Add the tomatoes and their juice, the capers, oregano, and a tiny bit of salt. Bring to a simmer and cook until the liquid is slightly thickened, about 15 minutes."
+        },
+        {
+            "step": 3,
+            "text": "Add the drained fish. Baste the fish with the sauce. Cook 10 minutes or until just tender. Serve hot."
+        }
+    ],
+    "variations": [
+        "Add a handful of olives or a few anchovy fillets to the sauce for additional flavor."
+    ]
+}

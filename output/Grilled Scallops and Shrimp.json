@@ -1,0 +1,64 @@
+{
+  "id": "c08-rcu-0051",
+  "title": "Grilled Scallops and Shrimp",
+  "titleAlternative": "Frutti di Mare alla Griglia",
+  "yield": "Makes 4 servings",
+  "introduction": "Indulge in the exquisite flavors of the sea with this elegant dish of grilled scallops and shrimp. Paired with a refreshing lemon sauce, this combination brings out the best in each ingredient. You can also substitute with chunks of firm-fleshed fish like salmon or swordfish for a delightful variation.",
+  "ingredients": [
+    {
+      "quantity": "3/4 pound",
+      "item": "large sea scallops, rinsed and patted dry"
+    },
+    {
+      "quantity": "3/4 pound",
+      "item": "large shrimp, shelled and deveined"
+    },
+    {
+      "quantity": "to taste",
+      "item": "Fresh or dried bay leaves"
+    },
+    {
+      "quantity": "1 medium",
+      "item": "red onion, cut into 1 inch pieces"
+    },
+    {
+      "quantity": "1/4 cup",
+      "item": "olive oil"
+    },
+    {
+      "quantity": "2 tablespoons",
+      "item": "fresh lemon juice"
+    },
+    {
+      "quantity": "1 tablespoon",
+      "item": "chopped fresh flat-leaf parsley"
+    },
+    {
+      "quantity": "1/2 teaspoon",
+      "item": "dried oregano, crumbled"
+    },
+    {
+      "quantity": "to taste",
+      "item": "Salt and freshly ground black pepper"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "description": "Place a barbecue grill or broiler rack about 5 inches away from the heat source. Preheat the grill or broiler."
+    },
+    {
+      "step": 2,
+      "description": "Thread the scallops and shrimp alternately with the bay leaves and pieces of onion on 8 wood or metal skewers."
+    },
+    {
+      "step": 3,
+      "description": "In a small bowl, whisk together the oil, lemon juice, parsley, oregano, and salt and pepper to taste. Transfer about two-thirds of the sauce mixture to a separate bowl. Reserve. Brush the shellfish with the remaining third of the sauce."
+    },
+    {
+      "step": 4,
+      "description": "Grill or broil until the shrimp are pink and the scallops are lightly browned on one side, about 3 to 4 minutes. Turn over the skewers and cook, until the shrimp are pink and the scallops are lightly browned on the other side, about 3 to 4 minutes more. The shrimp and scallop meat will be just barely opaque in the center. Transfer to a plate and drizzle with the remaining sauce."
+    }
+  ],
+  "variations": "Hard-shell clams like cherrystone, littlenecks, Manila clams, or cockles can be used instead. Alternatively, mussels from various varieties, especially farm-raised ones, can be substituted. Ensure that clams are alive when purchased and stored properly. Clean them by soaking in cold salted water and scrubbing if gritty. Mussels can be prepared similarly, removing any 'beards' if present."
+}

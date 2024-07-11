@@ -1,0 +1,30 @@
+
+  {
+    "id": 1,
+    "title": "Fish and Shellfish",
+    "titleAlternative": "Pesci e Frutti di Mare",
+    "yield": "Varies",
+    "introduction": "Italy's extensive coastline and variety of lakes offer a remarkable array of seafood. From familiar varieties like sea bass and tuna to unique offerings such as cuttlefish and sea snails, the Italian seafood market is as diverse as it is delicious. Here, seafood is showcased in its entirety on beds of ice, allowing consumers to select the freshest catch.",
+    "ingredients": [
+      "Choice of seafood (sea bass, tuna, cuttlefish, prawns, eels, sea snails, whitebait, fresh anchovies, red mullet, etc.)"
+    ],
+    "instructions": [
+      "Keep fish in a plastic bag on top of a bed of ice in the refrigerator.",
+      "Remove live seafood like lobsters, clams, and mussels from plastic bags, place on ice, and cover lightly with a damp cloth.",
+      "Use all fish and seafood as soon as possible after purchasing.",
+      "Rinse fish and seafood before using to eliminate loose scales, sand, or bits of shells."
+    ],
+    "variations": [
+      {
+        "title": "Cooking Fish Fillets and Steaks",
+        "introduction": "Knowing when fish is perfectly cooked is essential. Fish is slightly translucent and soft when raw, and should be cooked to opacity with just a hint of translucence remaining.",
+        "instructions": [
+          "Cook fish for 8 to 10 minutes per inch of thickness.",
+          "Press the fish at its thickest part; it should feel firmer than before cooking.",
+          "Use a knife to check the thickest part; it should be opaque with a thin translucent line near the center.",
+          "Whole fish should be checked near the main bone or along the back.",
+          "Fish like tuna, salmon, and swordfish are best cooked rare to medium-rare."
+        ]
+      }
+    ]
+  }

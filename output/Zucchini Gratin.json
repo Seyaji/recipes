@@ -1,0 +1,36 @@
+{
+  "id": "c11-rcu-0145",
+  "title": "Zucchini Gratin",
+  "titleAlternative": "Zucchine Gratinate",
+  "yield": "Makes 4 to 6 servings",
+  "introduction": "This delightful Zucchini Gratin is perfect for a summer picnic buffet, pairing beautifully with grilled meats or fish and various salads. It can be enjoyed both hot and cold, making it a versatile dish for any gathering.",
+  "ingredients": [
+    "2 medium yellow onions, chopped",
+    "2 garlic cloves, finely chopped",
+    "4 tablespoons olive oil",
+    "Salt and freshly ground black pepper",
+    "1 tablespoon chopped fresh thyme, basil, or oregano",
+    "4 small zucchini, cut into 1/8-inch slices",
+    "3 medium round tomatoes, cut into thin slices",
+    "1/2 cup grated Parmigiano-Reggiano"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "description": "In a medium skillet, cook the onions and garlic in 2 tablespoons of the olive oil over medium-low heat until golden, about 10 minutes. Season with salt and pepper to taste."
+    },
+    {
+      "step": 2,
+      "description": "Place a rack in the center of the oven. Preheat the oven to 375°F. Oil a 13 × 9 × 2–inch baking dish."
+    },
+    {
+      "step": 3,
+      "description": "Spread the onion mixture evenly in the baking dish. Scatter one-third of the thyme over the onions. Arrange the zucchini and tomatoes in overlapping slices over the onions. Sprinkle with the remaining thyme, and salt and pepper to taste. Drizzle with the remaining olive oil."
+    },
+    {
+      "step": 4,
+      "description": "Bake 40 to 45 minutes or until the vegetables are tender and the juices are sizzling. Sprinkle with the cheese and bake until slightly melted, about 5 minutes more. Let rest 10 minutes before serving."
+    }
+  ],
+  "variations": []
+}

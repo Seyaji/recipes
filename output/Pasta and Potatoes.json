@@ -1,0 +1,35 @@
+{
+  "id": "c05-rcu-0011",
+  "title": "Pasta and Potatoes",
+  "titleAlternative": "Pasta e Patate",
+  "yield": "Makes 6 servings",
+  "introduction": "Pasta and Potatoes, or 'Pasta e Patate' as it's known in Italy, showcases la cucina povera by transforming simple ingredients into a hearty and flavorful dish. This traditional recipe from southern Italy turns basic pantry items like pasta, potatoes, and a few vegetables into a comforting and satisfying meal. Historically, adding extra water and vegetable broth helped stretch this dish to serve large families, giving it a soupy consistency while retaining its richness and nutritional value.",
+  "ingredients": [
+    "1/4 cup olive oil",
+    "1 medium carrot, chopped",
+    "1 medium celery rib, chopped",
+    "1 medium onion, chopped",
+    "2 garlic cloves, finely chopped",
+    "2 tablespoons chopped fresh flat-leaf parsley",
+    "3 tablespoons tomato paste",
+    "Salt and freshly ground black pepper",
+    "1 1/2 pounds boiling potatoes, peeled and chopped",
+    "1 pound tubetti or small shells",
+    "1/2 cup freshly grated Pecorino Romano or Parmigiano-Reggiano"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "description": "Pour the oil into a large saucepan and add the chopped ingredients except the potatoes. Cook over medium heat, stirring occasionally, until tender and golden, about 15 to 20 minutes."
+    },
+    {
+      "step": 2,
+      "description": "Stir in the tomato paste and salt and pepper to taste. Add the potatoes and 4 cups of water. Bring to a simmer and cook until the potatoes are very tender, about 30 minutes. Crush some of the potatoes with the back of a spoon."
+    },
+    {
+      "step": 3,
+      "description": "Bring about 4 quarts of water to a boil in a large pot. Add 2 tablespoons of the salt, then the pasta. Stir well. Cook, stirring often, until the pasta is al dente, tender yet still firm to the bite. Set aside some of the cooking water. Stir the pasta into the potato mixture. Add some of the reserved cooking water if necessary, but the mixture should remain quite thick. Stir in the cheese and serve immediately."
+    }
+  ],
+  "variations": []
+}

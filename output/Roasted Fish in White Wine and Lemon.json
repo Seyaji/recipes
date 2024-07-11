@@ -1,0 +1,65 @@
+
+    {
+        "id": "c08-rcu-0032",
+        "title": "Roasted Fish in White Wine and Lemon",
+        "titleAlternative": "Pesce al Vino Bianco",
+        "yield": "Makes 4 servings",
+        "introduction": "Roasted Fish in White Wine and Lemon is a delightful way to enjoy medium to small whole fish. The recipe pairs wonderfully with sides like braised artichokes and potatoes, creating a complete meal that's both flavorful and aromatic.",
+        "ingredients": [
+            {
+                "amount": "2",
+                "unit": "whole",
+                "item": "fish such as red snapper or sea bass (about 2 pounds each), cleaned with heads and tails intact"
+            },
+            {
+                "amount": "1 tablespoon",
+                "unit": "",
+                "item": "chopped fresh rosemary"
+            },
+            {
+                "amount": "",
+                "unit": "",
+                "item": "Salt and freshly ground black pepper"
+            },
+            {
+                "amount": "1",
+                "unit": "",
+                "item": "lemon, thinly sliced"
+            },
+            {
+                "amount": "2 tablespoons",
+                "unit": "",
+                "item": "chopped fresh flat-leaf parsley"
+            },
+            {
+                "amount": "1 cup",
+                "unit": "",
+                "item": "dry white wine"
+            },
+            {
+                "amount": "1/4 cup",
+                "unit": "",
+                "item": "extra-virgin olive oil"
+            },
+            {
+                "amount": "1 tablespoon",
+                "unit": "",
+                "item": "white wine vinegar"
+            }
+        ],
+        "instructions": [
+            {
+                "step": 1,
+                "text": "Place a rack in the center of the oven. Preheat the oven to 400°F. Oil a pan large enough to hold the fish side by side."
+            },
+            {
+                "step": 2,
+                "text": "Rinse the fish and pat dry inside and out. Sprinkle the insides of the fish with the rosemary and salt and pepper to taste. Tuck some of the lemon slices inside the cavity. Place the fish in the pan. Scatter the parsley over the fish and lay the remaining lemon slices on top. Drizzle with the wine, oil, and vinegar."
+            },
+            {
+                "step": 3,
+                "text": "Bake the fish 8 to 10 minutes per inch of thickness at the widest point, or until the flesh is opaque when cut with a small sharp knife near the bone. Serve hot."
+            }
+        ],
+        "variations": []
+    }

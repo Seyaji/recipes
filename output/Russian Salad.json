@@ -1,0 +1,40 @@
+{
+  "id": "c02-rcu-0016",
+  "title": "Russian Salad",
+  "titleAlternative": "Insalata Russa",
+  "yield": "Makes 8 servings",
+  "introduction": "Russian Salad, also known as Insalata Russa, is a vibrant and versatile dish that has found its way into Italian cuisine. Often served as an antipasto or at buffet dinners, this salad can be a refreshing addition to summer meals when paired with cold shrimp, lobster, poached or smoked fish, or hard-cooked eggs. The salad's appeal lies in its colorful assortment of vegetables, which can be varied according to the season to include cauliflower, broccoli, or zucchini.",
+  "ingredients": [
+    "3 medium boiling potatoes, peeled and cut into 1/2-inch cubes",
+    "Salt",
+    "8 ounces green beans, trimmed and cut into 1/2-inch lengths",
+    "3 medium carrots, trimmed and cut into 1/2-inch cubes",
+    "1 cup fresh or frozen peas",
+    "2 tablespoons extra-virgin olive oil",
+    "2 tablespoons white wine vinegar",
+    "3 or 4 sour pickles, cut into 1/2-inch pieces (about 1 cup)",
+    "2 tablespoons capers, rinsed and drained",
+    "Freshly ground pepper",
+    "1 cup mayonnaise",
+    "2 tablespoons chopped fresh flat-leaf parsley"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "description": "Place the potatoes in a saucepan with cold water to cover and salt to taste. Bring to a simmer and cook until tender, about 5 minutes. Let cool under running water. Drain."
+    },
+    {
+      "step": 2,
+      "description": "Bring about 2 quarts of water to boil in a medium saucepan. Add the green beans, carrots, and peas, and salt to taste. Cook until tender, about 5 minutes. Let cool under running water. Drain."
+    },
+    {
+      "step": 3,
+      "description": "In a large bowl, whisk the oil, vinegar, and salt to taste. Pat the vegetables dry. Add all of the cooked vegetables, the pickles, and the capers to the dressing and stir well. Add pepper to taste."
+    },
+    {
+      "step": 4,
+      "description": "Stir in the mayonnaise. Taste and adjust seasoning. Mound the salad in a serving bowl. Cover and chill at least 1 or up to 4 hours before serving. Garnish with parsley and serve immediately."
+    }
+  ],
+  "variations": "You can vary the vegetables according to the season, using cauliflower, broccoli, and zucchini."
+}

@@ -1,0 +1,28 @@
+{
+    "id": "c13-rcu-0044",
+    "title": "Espresso Gelatin",
+    "titleAlternative": "Gelatina di Caffè",
+    "yield": "Makes 4 servings",
+    "introduction": "Espresso Gelatin is an exquisite Italian dessert that pairs the robust flavors of coffee with the delicate texture of gelatin. Inspired by a Milanese delight, this treat is often enjoyed with whipped cream or the luxurious Chilled Zabaglione, but it stands out deliciously on its own.",
+    "ingredients": [
+        "2 envelopes unflavored gelatin",
+        "1 cup sugar",
+        "2 1/2 cup cold water",
+        "2 tablespoons instant espresso powder"
+    ],
+    "instructions": [
+        {
+            "step": 1,
+            "description": "In a medium saucepan, stir together the gelatin and sugar. Add the water and cook over medium heat, stirring constantly, until the gelatin is completely dissolved, about 3 minutes. Do not allow the mixture to boil."
+        },
+        {
+            "step": 2,
+            "description": "Remove from the heat. Stir in the instant coffee. Pour the mixture into a 1-quart mold. Cover and chill until set, 4 hours up to overnight."
+        },
+        {
+            "step": 3,
+            "description": "When ready to serve, fill a bowl with warm water and dip the mold into the water for 30 seconds. Run a small knife around the sides. Lay a plate over the mold, and holding them together, invert them so the gelatin transfers to the plate."
+        }
+    ],
+    "variations": []
+}

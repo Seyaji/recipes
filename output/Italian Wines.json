@@ -1,0 +1,104 @@
+
+  {
+    "id": 1,
+    "title": "Italian Wines",
+    "titleAlternative": null,
+    "yield": null,
+    "introduction": "Italian wines are celebrated globally for their exceptional quality and versatility, making them a delightful companion to various Italian dishes. They span a diverse range of flavors, from light and crisp whites to rich and robust reds, each suited to different types of cuisines.",
+    "ingredients": [
+      {
+        "type": "Sparkling Wines",
+        "temperature": "45°F",
+        "details": [
+          { "name": "Prosecco", "region": "Veneto", "producer": "Nino Franco, Aneri, Capene Malvolti" },
+          { "name": "Spumante", "region": "Trentino, Lombardy", "producer": "Ferrari, Bellavista, Berlucchi, Ca' del Bosco" }
+        ]
+      },
+      {
+        "type": "Light- to Medium-Bodied White Wines",
+        "temperature": "45°F",
+        "details": [
+          { "name": "Albana di Romagna", "region": "Emilia-Romagna", "producer": "Fattoria Paradiso, Uberto Cesari Tre Monti" },
+          { "name": "Arneis", "region": "Piedmont", "producer": "Vietti, Bruno Giacosa, Ceretto" },
+          { "name": "Frascati", "region": "Lazio", "producer": "Fontana Candida, Villa Simone, Castel de Paolis" },
+          { "name": "Orvieto", "region": "Umbria", "producer": "Tenuta Le Velette, Bigi" },
+          { "name": "Pinot Bianco", "region": "Trentino–Alto Adige", "producer": "De Tarczal, Peter Zimmer, Josef Brigl" },
+          { "name": "Pinot Grigio", "region": "Friuli–Venezia Giulia", "producer": "Livio Felluga, Schiopetto, Vincentini Orgnani" },
+          { "name": "Verdicchio", "region": "Le Marche", "producer": "Gioacchino Garofoli, Filli Bucci, Fazi Battaglia" }
+        ]
+      },
+      {
+        "type": "Medium- to Full-Bodied White Wines",
+        "temperature": "45°F",
+        "details": [
+          { "name": "Fiano di Avellino", "region": "Campania", "producer": "Mastroberardino, Terra Dora di Paola, Cantina Caputo" },
+          { "name": "Gavi", "region": "Piedmont", "producer": "La Scolca, Banfi, La Zerba" },
+          { "name": "Greco di Tufo", "region": "Campania", "producer": "Feudi di San Gregorio, Mastroberardino, Cantina Caputo" },
+          { "name": "Sauvignon Blanc", "region": "Friuli–Venezia Giulia", "producer": "Ascevi, St. Michael–Eppan, Puiatti Alto Adige" },
+          { "name": "Soave", "region": "Veneto", "producer": "Pieropan, Guerreri Rizzardi, Inama" },
+          { "name": "Tocai", "region": "Friuli–Venezia Giulia", "producer": "Mario Schiopetto, Ronco di Tassi, Venica & Venica" },
+          { "name": "Trebbiano", "region": "Abruzzo", "producer": "Edoardo Valentini, Dino Illuminati, Gianni Masciarelli" },
+          { "name": "Vermentino", "region": "Sardinia", "producer": "Tenuta Sella & Mosca, Cantina di Dolianova, Antonio Argiolas" },
+          { "name": "Vernaccia", "region": "Tuscany", "producer": "Teruzzi & Puthod, Famiglia Cecchi" }
+        ]
+      },
+      {
+        "type": "Light- to Medium-Bodied Red Wines",
+        "temperature": "65°F",
+        "details": [
+          { "name": "Barbera", "region": "Piedmont", "producer": "Vietti, Carlo Benotto, Cascina Castlet" },
+          { "name": "Bardolino", "region": "Veneto", "producer": "Bolla" },
+          { "name": "Chianti", "region": "Tuscany", "producer": "Monsanto, Vitticio, Ruffino, Travignoli, Antinori, Buondonno" },
+          { "name": "Dolcetto", "region": "Piedmont", "producer": "Vietti, Poderi Marcarini, Renato Ratti" },
+          { "name": "Rubesco", "region": "Umbria", "producer": "Lungarotti" },
+          { "name": "Valpolicella", "region": "Veneto", "producer": "Allegrini, Masi, Bertani" }
+        ]
+      },
+      {
+        "type": "Medium- to Full-Bodied Red Wines",
+        "temperature": "65°F",
+        "details": [
+          { "name": "Aglianico del Vulture", "region": "Basilicata", "producer": "Paternoster, D'Angelo, Sasso" },
+          { "name": "Amarone", "region": "Veneto", "producer": "Tommasi, Masi, Allegrini" },
+          { "name": "Barbaresco", "region": "Piedmont", "producer": "Pio Cesare, Produttori del Barbaresco, Marchesi di Gresy" },
+          { "name": "Barolo", "region": "Piedmont", "producer": "Vietti, Borgogno, Poderi Marcarini, Giuseppe Mascarello & Figlio" },
+          { "name": "Brunello", "region": "Tuscany", "producer": "Castello Banfi, Castelgiocondo, Mastrojanni, Poggio Antico" },
+          { "name": "Carmignano", "region": "Tuscany", "producer": "Capezzano, Fattoria Ambra, Artimino" },
+          { "name": "Colle Picchioni", "region": "Lazio", "producer": "Paola di Mauro, Vigna del Vassallo" },
+          { "name": "Merlot", "region": "Umbria, Sicily, Tuscany", "producer": "Castello delle Regine, Planeta, Avigonesi" },
+          { "name": "Montepulciano d'Abruzzo", "region": "Abruzzo", "producer": "Edoardo Valentini, Dino Illuminati, Bruno Nicodemi, Tenuta Cataldi Madonna" },
+          { "name": "Nero d'Avola", "region": "Sicily", "producer": "Morgante, Planeta, Benanti" },
+          { "name": "Primitivo di Manduria", "region": "Puglia", "producer": "Savese, Coppi, Cantina Sociale Locorotondo" },
+          { "name": "Salice Salentino", "region": "Puglia", "producer": "Agricole Vallone, Cosimo Taurino, Conti Zecca" },
+          { "name": "Sagrantino", "region": "Umbria", "producer": "Terre di Trinci, Rocco di Fabbri, Antonelli–San Marco" },
+          { "name": "Sangiovese", "region": "Umbria, Tuscany, Emilia-Romagna", "producer": "Castello delle Regine, Carobbio, Fattoria Paradiso" },
+          { "name": "Taurasi", "region": "Campania", "producer": "Mastroberardino, Feudi di San Gregorio, Terredora di Paolo" },
+          { "name": "Vino Nobile di Montepulciano", "region": "Tuscany", "producer": "Avignonesi, Salcheto, Poliziano, Tenuta Il Faggeto" }
+        ]
+      },
+      {
+        "type": "Dessert Wines",
+        "subtype": [
+          {
+            "subtypeName": "Sparkling Dessert Wines",
+            "temperature": "45°F",
+            "details": [
+              { "name": "Asti Spumante", "region": "Piedmont", "producer": "Fontanafredda, Contratto, Cinzano" },
+              { "name": "Moscato d'Asti", "region": "Piedmont", "producer": "Vietti, Cascina Castlet, Santo Stefano" }
+            ]
+          },
+          {
+            "subtypeName": "Rich Dessert Wines",
+            "temperature": "65°F",
+            "details": [
+              { "name": "Marsala", "region": "Sicily", "producer": "Florio, Rallo, De Bartoli" },
+              { "name": "Picolit", "region": "Friuli-Venezia Giulia", "producer": "Livio Felluga, Furlan, Dorigo" },
+              { "name": "Vin Santo", "region": "Tuscany, Umbria", "producer": "Antinori, Lungarotti, Travignoli, Avignonesi" }
+            ]
+          }
+        ]
+      }
+    ],
+    "instructions": [],
+    "variations": []
+  }

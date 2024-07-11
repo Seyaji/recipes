@@ -1,0 +1,40 @@
+{
+    "id": "c08-rcu-0041",
+    "title": "Shrimp and Beans",
+    "titleAlternative": "Gamberi e Fagioli",
+    "yield": "Makes 4 servings",
+    "introduction": "Shrimp and Beans is a delightful dish inspired by the simple, yet flavorful seafood preparations from a renowned restaurant in Forte dei Marmi. The combination of succulent shrimp and hearty beans creates a meal that is both nourishing and satisfying.",
+    "ingredients": [
+        "16 to 20 large shrimp, peeled and deveined",
+        "4 tablespoons olive oil",
+        "2 tablespoons finely chopped fresh garlic",
+        "2 tablespoons chopped fresh basil",
+        "Salt and freshly ground black pepper",
+        "3 cups drained cooked or canned cannellini or Great Northern beans",
+        "2 medium tomatoes, diced",
+        "Fresh basil leaves, for garnish"
+    ],
+    "instructions": [
+        {
+            "step": 1,
+            "description": "In a bowl, drizzle the shrimp with 2 tablespoons of the oil, half the garlic, 1 tablespoon of the basil, and salt and pepper to taste. Stir well. Cover and refrigerate 1 hour."
+        },
+        {
+            "step": 2,
+            "description": "Place a barbecue grill or broiler rack about 5 inches away from the heat source. Preheat the grill or broiler."
+        },
+        {
+            "step": 3,
+            "description": "In a saucepan, cook the remaining oil, garlic, and basil over medium heat about 1 minute. Stir in the beans. Cover and cook over low heat 5 minutes or until heated through. Remove from the heat. Stir in the tomatoes, and salt and pepper to taste."
+        },
+        {
+            "step": 4,
+            "description": "Broil the shrimp on one side until lightly browned, 1 to 2 minutes. Turn the shrimp and cook until lightly browned and just opaque in the thickest part, about 1 to 2 minutes more."
+        },
+        {
+            "step": 5,
+            "description": "Spoon the beans onto 4 plates. Arrange the shrimp around the beans. Garnish with fresh basil leaves. Serve immediately."
+        }
+    ],
+    "variations": []
+}

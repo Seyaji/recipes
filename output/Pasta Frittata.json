@@ -1,0 +1,30 @@
+
+  {
+    "id": "c07-rcu-0017",
+    "title": "Pasta Frittata",
+    "titleAlternative": "Frittata di Pasta",
+    "yield": "Makes 4 servings",
+    "introduction": "Pasta Frittata is an ingenious way to give leftover pasta a delicious second life. This dish works whether the pasta is plain or sauced, and can be customized with added sausages, ham, cheese, or vegetables. It's a flexible recipe where quantities can be adjusted as needed.",
+    "ingredients": [
+      "6 large eggs",
+      "1/2 cup freshly grated Parmigiano-Reggiano",
+      "Salt and freshly ground black pepper",
+      "8 ounces cooked pasta, with or without a sauce",
+      "2 tablespoons olive oil"
+    ],
+    "instructions": [
+      {
+        "step": 1,
+        "text": "In a large bowl, beat together the eggs, cheese, and salt and pepper to taste. Stir in the cooked pasta."
+      },
+      {
+        "step": 2,
+        "text": "In a 9-inch nonstick skillet, heat the oil over medium heat. Add the pasta mixture and press it flat. Cook until the eggs are just set but still moist in the center and the frittata is lightly browned on the bottom, about 10 minutes."
+      },
+      {
+        "step": 3,
+        "text": "Slide the frittata onto a plate, then invert the skillet over the plate. Quickly flip both the plate and skillet so that the frittata is cooked-side up. Cook until just set in the center, about 5 minutes more. Or, if you prefer not to flip it, slide the skillet under the broiler for 3 to 5 minutes or until set to taste. Serve hot or at room temperature."
+      }
+    ],
+    "variations": []
+  }

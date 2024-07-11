@@ -1,0 +1,48 @@
+
+    {
+        "id": "c14-rcu-0091",
+        "title": "Bow Ties",
+        "titleAlternative": "Chiacchiere, Frittelle, Wandi, or Cenci",
+        "yield": "Makes about 3 dozen",
+        "introduction": "Bow Ties are delightful fried pastry strips that are enjoyed across various Italian regions. Known by different names like Chiacchiere, Frittelle, Wandi, and Cenci, these pastries are often associated with the festive season of Carnevale. Originally made from leftover pasta dough, they can be shaped into bows or left as strips and are typically dusted with confectioner's sugar after frying.",
+        "ingredients": [
+            "2 large eggs",
+            "1 tablespoon sugar",
+            "1 teaspoon olive oil",
+            "1 teaspoon pure vanilla extract",
+            "About 2 cups all-purpose flour",
+            "Vegetable or olive oil for deep frying",
+            "Confectioner's sugar"
+        ],
+        "instructions": [
+            {
+                "step": 1,
+                "description": "In a large bowl, beat the eggs, sugar, olive oil, and vanilla until well blended."
+            },
+            {
+                "step": 2,
+                "description": "Gradually add 2 cups flour, stirring until the mixture is smooth and forms a soft dough. If the dough is sticky, add an additional spoonful of flour."
+            },
+            {
+                "step": 3,
+                "description": "Shape the dough into a ball and cut it in half. Keep one half covered while working with the other."
+            },
+            {
+                "step": 4,
+                "description": "On a lightly floured surface, roll out the dough to a 1/8-inch thickness. With a fluted pastry wheel, cut the dough into 6 × 1-inch strips. Tie each strip into a loose knot. Place the knots on a tray or baking sheet. Repeat with the remaining dough."
+            },
+            {
+                "step": 5,
+                "description": "In a deep heavy saucepan, pour enough oil to reach a depth of 2 inches, or if using an electric deep-fryer, follow the manufacturer's directions. Heat the oil to 370°F on a frying thermometer, or until a bit of the dough placed in the oil sizzles and browns in 1 minute. Have ready a tray lined with paper towels."
+            },
+            {
+                "step": 6,
+                "description": "Add as many of the dough pieces to the pan as will fit without crowding. Cook, turning once, until golden brown, about 3 minutes."
+            },
+            {
+                "step": 7,
+                "description": "Remove the bows with a slotted spoon or skimmer and drain on paper towels. Fry the remainder in the same way. Dust generously with confectioner's sugar. These are best when eaten soon after they are made."
+            }
+        ],
+        "variations": []
+    }

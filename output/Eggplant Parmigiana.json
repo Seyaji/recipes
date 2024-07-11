@@ -1,0 +1,39 @@
+
+    {
+        "id": "c11-rcu-0066",
+        "title": "Eggplant Parmigiana",
+        "titleAlternative": "Melanzane alla Parmigiana",
+        "yield": "Makes 6 to 8 servings",
+        "introduction": "Eggplant Parmigiana, or Melanzane alla Parmigiana, is a timeless Italian classic that never fails to satisfy. With layers of fried eggplant, rich marinara sauce, and gooey mozzarella cheese, each bite transports you to the heart of Italy. This dish can also be prepared using grilled or baked eggplant slices for a healthier twist.",
+        "ingredients": [
+            "2 1⁄2 cups Marinara Sauce or other plain tomato sauce",
+            "2 medium eggplants (about 1 pound each)",
+            "Salt",
+            "Olive oil or vegetable oil for frying",
+            "8 ounces fresh mozzarella, sliced",
+            "1⁄2 cup freshly grated Parmigiano-Reggiano or Pecorino Romano"
+        ],
+        "instructions": [
+            {
+                "step": 1,
+                "instruction": "Prepare the sauce, if necessary. Then, trim the tops and bottoms off the eggplants. Cut the eggplants crosswise into 1⁄2-inch-thick slices. Arrange the slices in a colander, sprinkling each layer with salt. Place the colander over a plate to drain for at least 30 minutes. Rinse off the salt with cool water and dry the slices with paper towels."
+            },
+            {
+                "step": 2,
+                "instruction": "Line a tray with paper towels. Heat about 1⁄2 inch of the oil in a large skillet over medium heat until a small piece of eggplant sizzles when added to the pan. Add just enough of the eggplant slices to fit in a single layer without crowding. Fry until golden brown on one side, about 3 minutes, then turn them over and brown on the other side, about 2 to 3 minutes more. Drain the slices on the paper towels. Cook the remaining eggplant slices in the same way."
+            },
+            {
+                "step": 3,
+                "instruction": "Place a rack in the center of the oven. Preheat the oven to 350°F. Spread a thin layer of tomato sauce in a 13 × 9 × 2–inch baking dish. Make a layer of eggplant slices, overlapping them slightly. Top with a layer of mozzarella, another layer of sauce, and a sprinkle of grated cheese. Repeat the layering, ending with eggplant, sauce, and grated cheese."
+            },
+            {
+                "step": 4,
+                "instruction": "Bake for 45 minutes, or until the sauce is bubbling. Let stand 10 minutes before serving."
+            }
+        ],
+        "variations": [
+            {
+                "variation": "Grilled or baked eggplant slices can be used instead of fried for a healthier version."
+            }
+        ]
+    }

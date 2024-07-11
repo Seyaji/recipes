@@ -1,0 +1,35 @@
+
+  {
+    "id": "1",
+    "title": "Green Salads",
+    "titleAlternative": "Insalate Verdi",
+    "yield": "4 servings",
+    "introduction": "Green salads exemplify the elegance of Italian cooking, relying on the freshest of vegetables and the simplest of dressings to highlight natural flavors. Tossed with a hint of high-quality extra-virgin olive oil and a splash of wine vinegar or fresh lemon juice, these salads can serve as a perfect accompaniment to a meal or a standalone dish when enriched with cheese, tuna, chicken, or eggs.",
+    "ingredients": [
+      "Fresh assorted greens (romaine, Boston, leaf lettuce, mâche, etc.)",
+      "Extra-virgin olive oil",
+      "Wine vinegar or fresh lemon juice",
+      "Salt",
+      "Pepper"
+    ],
+    "instructions": [
+      "Remove any stems and discard bruised or discolored leaves from the greens.",
+      "Wash the greens in a large basin of lukewarm water, allowing any grit to sink to the bottom.",
+      "Lift the greens out of the water and drain them, repeating until no grit remains.",
+      "Dry the greens thoroughly using a salad spinner.",
+      "Tear the greens into bite-size pieces just before assembling the salad.",
+      "Drizzle with extra-virgin olive oil and wine vinegar or lemon juice.",
+      "Season with salt and pepper to taste.",
+      "Toss gently to coat the greens evenly with dressing."
+    ],
+    "variations": [
+      {
+        "variationTitle": "Main Course Variation",
+        "variationInstructions": [
+          "Add slices of fresh mozzarella or other cheese.",
+          "Include a can of drained tuna or cooked chicken strips.",
+          "Top with boiled eggs, sliced or quartered."
+        ]
+      }
+    ]
+  }

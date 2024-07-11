@@ -1,0 +1,33 @@
+
+    {
+        "id": "c11-rcu-0031",
+        "title": "Broccoli Rabe with Garlic and Hot Pepper",
+        "titleAlternative": "Cime di Rape col Peperoncino",
+        "yield": "Makes 4 servings",
+        "introduction": "This delicious recipe is a fantastic way to season broccoli rabe, with the added flair of garlic and hot pepper. It's versatile enough to substitute with regular broccoli or cauliflower. For an extra flavor boost, try adding anchovies or olives. Perfect as a side dish or a pasta topping.",
+        "ingredients": [
+            "1 1/2 pounds broccoli rabe",
+            "Salt",
+            "3 tablespoons olive oil",
+            "2 large garlic cloves, thinly sliced",
+            "Pinch of crushed red pepper"
+        ],
+        "instructions": [
+            {
+                "stepNumber": 1,
+                "instruction": "Separate the broccoli rabe into florets. Trim off the base of the stems. Peeling the stems is optional. Cut each floret crosswise into 2 or 3 pieces."
+            },
+            {
+                "stepNumber": 2,
+                "instruction": "Bring a large pot of water to a boil. Add the broccoli rabe and salt to taste. Cook until the broccoli is almost tender, about 5 minutes. Drain."
+            },
+            {
+                "stepNumber": 3,
+                "instruction": "Dry the pot and add the oil, garlic, and red pepper. Cook over medium heat until the garlic is lightly golden, about 2 minutes. Add the broccoli and a sprinkle of salt. Stir well. Cover and cook until tender, 3 minutes more. Serve hot or at room temperature."
+            }
+        ],
+        "variations": [
+            "Include a few anchovies sautéed with the garlic and oil for an extra layer of flavor.",
+            "Add a handful of olives for a salty tang."
+        ]
+    }

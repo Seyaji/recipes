@@ -1,0 +1,39 @@
+{
+  "id": "c08-rcu-0049",
+  "title": "Baked Stuffed Lobster",
+  "titleAlternative": "Aragoste Amollicate",
+  "yield": "Makes 4 servings",
+  "introduction": "This recipe is a quintessential example of Sardinian cuisine, showcasing the delicate flavors of lobster with a simple yet delicious stuffing. Spiny or rock lobsters are often used, but North American lobsters work beautifully as well. The dish is both elegant and straightforward, making it perfect for special occasions or an impressive dinner.",
+  "ingredients": [
+    "4 live lobsters (about 1 1/4 pounds each)",
+    "1 cup plain dry bread crumbs",
+    "2 tablespoons chopped fresh flat-leaf parsley",
+    "1 garlic clove, finely chopped",
+    "Salt and freshly ground black pepper",
+    "Olive oil",
+    "1 lemon, cut into wedges"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "description": "Place one of the lobsters on a cutting board with the cavity facing up. Do not remove the bands that keep the claws shut. Protect your hand with a heavy towel or pot holder and hold the lobster above the tail. Plunge the tip of a heavy chef's knife into the body where the tail joins the chest. Cut all the way through, separating the tail from the rest of the body. Use poultry shears to remove the thin white shell that covers the underside of the tail and expose the meat. Pull out and remove the dark vein in the tail, but leave the green tomalley and red coral, if any."
+    },
+    {
+      "step": 2,
+      "description": "Place a rack in the center of the oven. Preheat the oven to 450°F. Oil 1 or 2 large roasting pans. Arrange the lobsters on their backs in the baking pans."
+    },
+    {
+      "step": 3,
+      "description": "In a medium bowl, stir together the bread crumbs, parsley, garlic, and salt and pepper to taste. Add 3 tablespoons of oil, or just enough to moisten the crumbs. Scatter the mixture over the lobsters in the pan. Drizzle with a little more oil."
+    },
+    {
+      "step": 4,
+      "description": "Bake the lobsters 12 to 15 minutes, or until the tail meat looks just opaque when cut in the thickest part and feels firm when pressed."
+    },
+    {
+      "step": 5,
+      "description": "Serve immediately with the lemon wedges."
+    }
+  ],
+  "variations": []
+}

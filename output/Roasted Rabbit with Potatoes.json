@@ -1,0 +1,73 @@
+{
+  "id": "c10-rcu-0128",
+  "title": "Roasted Rabbit with Potatoes",
+  "titleAlternative": "Coniglio Arrosto",
+  "yield": "Makes 4 servings",
+  "introduction": "Roasted Rabbit with Potatoes, or Coniglio Arrosto, is a beloved dish that encapsulates the rustic and hearty flavors of Puglia. The tender rabbit is cooked to perfection alongside crispy, golden potatoes, making for a rich and savory main course.",
+  "ingredients": [
+    {
+      "quantity": "1",
+      "unit": "",
+      "item": "rabbit (2½ to 3 pounds), cut into 8 pieces"
+    },
+    {
+      "quantity": "¼",
+      "unit": "cup",
+      "item": "olive oil"
+    },
+    {
+      "quantity": "1",
+      "unit": "medium",
+      "item": "onion, finely chopped"
+    },
+    {
+      "quantity": "2",
+      "unit": "tablespoons",
+      "item": "chopped fresh flat-leaf parsley"
+    },
+    {
+      "quantity": "½",
+      "unit": "cup",
+      "item": "dry white wine"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Salt and freshly ground black pepper"
+    },
+    {
+      "quantity": "4",
+      "unit": "medium",
+      "item": "all-purpose potatoes, peeled and cut into 1-inch wedges"
+    },
+    {
+      "quantity": "½",
+      "unit": "cup",
+      "item": "water"
+    },
+    {
+      "quantity": "½",
+      "unit": "teaspoon",
+      "item": "oregano"
+    }
+  ],
+  "instructions": [
+    {
+      "step": "1",
+      "instruction": "Rinse the rabbit pieces and pat dry with paper towels. In a large skillet, heat two tablespoons of the oil over medium heat. Add the rabbit, onion, and parsley. Cook, turning the pieces occasionally, until lightly browned, about 15 minutes. Add the wine and cook 5 minutes more. Sprinkle with salt and pepper."
+    },
+    {
+      "step": "2",
+      "instruction": "Place a rack in the center of the oven. Preheat the oven to 425°F. Oil a roasting pan large enough to hold all of the ingredients in a single layer."
+    },
+    {
+      "step": "3",
+      "instruction": "Scatter the potatoes in the pan and toss them with the remaining 2 tablespoons oil. Add the contents of the skillet to the pan, tucking the rabbit pieces around the potatoes. Add the water. Sprinkle with the oregano and salt and pepper. Cover the pan with aluminum foil. Roast 30 minutes. Uncover and cook 20 minutes more or until the potatoes are tender."
+    },
+    {
+      "step": "4",
+      "instruction": "Transfer to a serving platter. Serve hot."
+    }
+  ],
+  "variations": []
+}

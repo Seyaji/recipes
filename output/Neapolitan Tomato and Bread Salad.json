@@ -1,0 +1,37 @@
+{
+  "id": "c02-rcu-0009",
+  "title": "Neapolitan Tomato and Bread Salad",
+  "titleAlternative": "La Caponata",
+  "yield": "Makes 4 servings",
+  "introduction": "Neapolitan Tomato and Bread Salad, also known as La Caponata in Naples, is a refreshing and flavorful dish that highlights a clever Italian technique of adding ice cubes. This method cools the ingredients slightly and allows the melting ice to extend the vegetable juices, soaking into the bread. Unlike the Sicilian caponata, this version uses toasted bread or traditional freselle, a crisp hard biscuit.",
+  "ingredients": [
+    "4 freselle or 1-inch-thick slices of Italian or French bread, toasted",
+    "2 large ripe tomatoes",
+    "2 small kirby cucumbers, sliced",
+    "3 or 4 slices of red onion, chopped",
+    "4 fresh basil leaves, torn into small pieces",
+    "1/4 cup extra-virgin olive oil",
+    "About 2 tablespoons white vinegar",
+    "Salt and freshly ground black pepper",
+    "8 ice cubes"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "instruction": "Break the freselle or bread into bite-size pieces and place them in a bowl. Sprinkle with about 1/4 cup cool water or enough to slightly soften the bread."
+    },
+    {
+      "step": 2,
+      "instruction": "Add the tomatoes, cucumbers, onion, and basil to the bowl. Drizzle with oil and vinegar and season to taste with salt and pepper. Toss well."
+    },
+    {
+      "step": 3,
+      "instruction": "Add the ice cubes to the salad and let stand 15 minutes. Toss again and taste for seasoning, adding more vinegar if needed. Serve immediately."
+    }
+  ],
+  "variations": [
+    {
+      "description": "You can make the Pugliese version of this salad, called cialedda. They use a round variety of cucumber (but use what is available), plus radishes, arugula, and celery."
+    }
+  ]
+}

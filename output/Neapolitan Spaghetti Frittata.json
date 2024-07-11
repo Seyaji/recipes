@@ -1,0 +1,35 @@
+{
+  "id": "c07-rcu-0016",
+  "title": "Neapolitan Spaghetti Frittata",
+  "titleAlternative": "Frittata di Spaghetti",
+  "yield": "Makes 6 servings",
+  "introduction": "Neapolitan Spaghetti Frittata is a delicious and versatile dish rooted in tradition. This golden pasta torte filled with savory meats and cheeses is perfect for using up leftover spaghetti, transforming it into a hearty meal that can be enjoyed hot or at room temperature.",
+  "ingredients": [
+    "8 large eggs",
+    "1/2 cup freshly grated Parmigiano-Reggiano or Pecorino Romano",
+    "Salt and freshly ground black pepper",
+    "12 ounces spaghetti or other pasta, cooked and drained",
+    "4 ounces sliced salami, imported Italian prosciutto, or ham, cut into narrow strips",
+    "2 tablespoons olive oil",
+    "8 ounces mozzarella, thinly sliced"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "text": "In a large bowl, beat the eggs, cheese, and salt and pepper to taste. Stir in the spaghetti and salami."
+    },
+    {
+      "step": 2,
+      "text": "In a 9-inch nonstick skillet, heat the oil over medium heat. Add half of the spaghetti mixture. Cover with the cheese slices. Pour the remaining pasta mixture over the cheese."
+    },
+    {
+      "step": 3,
+      "text": "Reduce the heat to low. Cook the spaghetti, flattening the surface occasionally, so the pasta sticks together and forms a cake. After about 5 minutes, slide a spatula around the rim of the skillet and lift the cake gently to be sure that it is not sticking. Cook until the eggs are set and the frittata is lightly browned on the bottom, about 15 to 20 minutes."
+    },
+    {
+      "step": 4,
+      "text": "Slide the frittata onto a plate, then invert the skillet over the plate. Quickly flip both the plate and skillet so that the frittata is cooked-side up. Cook until just set in the center, about 5 minutes more. Or, if you prefer not to flip it, slide the skillet under the broiler for 3 to 5 minutes or until set to taste. Serve hot or at room temperature."
+    }
+  ],
+  "variations": []
+}

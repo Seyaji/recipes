@@ -1,0 +1,23 @@
+{
+  "id": "c02-rcu-0019",
+  "title": "Fennel and Olive Salad",
+  "titleAlternative": "Insalata di Finocchio e Oliva",
+  "yield": "Makes 4 servings",
+  "introduction": "Fennel and Olive Salad is a refreshing and crunchy side dish with a Mediterranean flair. Sicilian green olives add a tart and tangy flavor, perfectly complemented by the crispness of red onions and fennel. This salad makes a great addition to any meal and can be added to sandwiches for an extra burst of flavor.",
+  "ingredients": [
+    { "ingredient": "1 small red onion, thinly sliced" },
+    { "ingredient": "8 ounces Sicilian green olives" },
+    { "ingredient": "1 small fennel bulb, trimmed, cored, and thinly sliced" },
+    { "ingredient": "2 tablespoons chopped fresh flat-leaf parsley" },
+    { "ingredient": "1/2 teaspoon dried oregano" },
+    { "ingredient": "1/4 teaspoon crushed red pepper" },
+    { "ingredient": "1/4 cup extra-virgin olive oil" },
+    { "ingredient": "2 tablespoons white wine vinegar" }
+  ],
+  "instructions": [
+    { "step": "Soak the onion slices in a medium bowl of ice water for 15 minutes. Drain the onion and pat dry." },
+    { "step": "To pit the olives, place them on a cutting board. Lay a large chef's knife on its side on top of an olive and smack it firmly but gently with the heel of your hand. The olive should break open. Remove the pit. Repeat with the remaining olives. Add the pitted olives to the bowl." },
+    { "step": "Add the fennel, parsley, oregano, red pepper, oil, and vinegar to the bowl. Toss very well. Chill slightly before serving." }
+  ],
+  "variations": []
+}

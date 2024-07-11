@@ -1,0 +1,52 @@
+
+    {
+        "id": "c13-rcu-0071",
+        "title": "Walnut Caramel Ice Cream",
+        "titleAlternative": "Gelato di Noci",
+        "yield": "Makes 6 servings",
+        "introduction": "Indulge in the rich and creamy delight of Walnut Caramel Ice Cream, a dessert that beautifully combines the deep flavors of caramel with the crunch of toasted walnuts. Perfectly balanced, this gelato is elevated with a drizzle of rum or cognac, transforming it into a decadent treat worth savoring.",
+        "ingredients": [
+            "1 1/4 cups sugar",
+            "1/4 cup water",
+            "1 cup heavy cream",
+            "2 cups whole milk",
+            "5 large egg yolks",
+            "1 teaspoon pure vanilla extract",
+            "3/4 cup walnuts"
+        ],
+        "instructions": [
+            {
+                "step": 1,
+                "instruction": "In a small heavy saucepan, combine the sugar and water. Cook over medium heat, stirring occasionally until the sugar is completely dissolved, about 3 minutes. When the mixture begins to boil, stop stirring and cook until the syrup starts to brown around the edges. Then gently swirl the pan over the heat until the syrup is an even golden brown, about 2 minutes more."
+            },
+            {
+                "step": 2,
+                "instruction": "Remove the pan from the heat. When the bubbling stops, carefully pour in the cream. Be careful, as the caramel may bubble up. When all of the cream has been added, the caramel will harden. Place the pan back on the heat. Cook, stirring constantly, until the caramel is liquid and smooth. Pour the mixture into a large bowl."
+            },
+            {
+                "step": 3,
+                "instruction": "In the same saucepan, heat the milk until small bubbles form around the edge of the pan, about 3 minutes."
+            },
+            {
+                "step": 4,
+                "instruction": "In a medium heatproof bowl, whisk the egg yolks with the remaining 1/4 cup of the sugar until well blended. Gradually beat in the hot milk. Pour the mixture into the saucepan and cook over low heat, stirring constantly, until wisps of steam rise from the surface and the mixture is slightly thickened."
+            },
+            {
+                "step": 5,
+                "instruction": "Immediately pour the egg yolk mixture through a fine-mesh strainer into the bowl with the caramel. Add the vanilla and stir until smooth. Cover and chill in the refrigerator at least 1 hour."
+            },
+            {
+                "step": 6,
+                "instruction": "Place a rack in the center of the oven. Preheat the oven to 350°F. Spread the walnuts in a small pan. Bake, stirring once or twice, for 10 minutes or until lightly toasted. Rub the walnut pieces in a towel to remove some of the skin. Let cool. Chop coarsely."
+            },
+            {
+                "step": 7,
+                "instruction": "Freeze the mixture in an ice-cream freezer according to the manufacturer's instructions."
+            },
+            {
+                "step": 8,
+                "instruction": "When the gelato is ready, stir in the nuts. Pack the ice cream into a plastic container, cover, and freeze up to 24 hours."
+            }
+        ],
+        "variations": []
+    }

@@ -1,0 +1,25 @@
+{
+  "id": "c05-rcu-0102",
+  "title": "Neapolitan Lasagne",
+  "titleAlternative": "Lasagne Napolitana",
+  "yield": "Makes 8 to 10 servings",
+  "introduction": "Neapolitan Lasagne is a rich and irresistible dish that's been passed down for generations. It's made with layers of fresh pasta, creamy ricotta, savory meatballs, sausages, and gooey mozzarella, all brought together with a delicious Neapolitan ragù.",
+  "ingredients": [
+    {"quantity": "About 8 cups", "item": "Neapolitan Ragù, made with tiny meatballs"},
+    {"quantity": "To taste", "item": "Salt"},
+    {"quantity": "1 pound", "item": "Fresh lasagne"},
+    {"quantity": "2 pounds", "item": "Whole or part-skim ricotta"},
+    {"quantity": "1 1/4 cups", "item": "Freshly grated Pecorino-Romano"},
+    {"quantity": "1 pound", "item": "Fresh mozzarella, thinly sliced"}
+  ],
+  "instructions": [
+    {"step": 1, "description": "Prepare the ragù. Remove the meat pieces, meatballs, and sausages from the sauce. Set aside the pork and veal for another meal. Cut the sausages into thin slices and set them aside with the meatballs for the lasagne."},
+    {"step": 2, "description": "Lay out some lint-free kitchen towels on a flat surface. Have ready a large bowl of cold water."},
+    {"step": 3, "description": "Bring about 4 quarts of water to a boil. Add 2 tablespoons of salt. Add the lasagne a few pieces at a time. Cook the lasagne until tender but slightly underdone. Scoop the pasta out of the water. Place the cooked pasta in the cold water. When cool enough to handle, lay the pasta sheets out flat on the towels. The towels can be stacked one on top of the other. Continue cooking and cooling the remaining lasagne in the same way."},
+    {"step": 4, "description": "In a 13 × 9 × 2–inch pan, spread a thin layer of the sauce. Make a layer of pasta, overlapping the pieces slightly. Spread with 2 cups of the ricotta, then the tiny meatballs and sliced sausages, then the mozzarella. Spoon on about 1 cup more of the sauce and sprinkle with 1/4 cup of the grated cheese."},
+    {"step": 5, "description": "Repeat the layers, ending with pasta, sauce, and grated cheese. (If you are making the lasagne ahead of time, cover tightly with plastic wrap and refrigerate overnight.)"},
+    {"step": 6, "description": "Place a rack in the center of the oven. Preheat the oven to 375°F. Bake the lasagne 45 minutes. If the lasagne is browning too much, cover it loosely with foil. Bake 15 minutes more or until the top is browned and the sauce is bubbling around the edges."},
+    {"step": 7, "description": "Remove the lasagne from the oven and let set 15 minutes. Cut the lasagne into squares and serve."}
+  ],
+  "variations": []
+}

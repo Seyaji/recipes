@@ -1,0 +1,24 @@
+{
+  "id": "c01-rcu-0015",
+  "title": "Marinated Olives",
+  "titleAlternative": "Olive Marinate",
+  "yield": "Makes 6 to 8 servings",
+  "introduction": "Marinated olives are an exquisite way to start a meal. With their rich flavors derived from a combination of spices and oils, these olives are sure to be a hit. Whether you prefer a mild black olive like Gaeta or a mix of green and black varieties, these marinated olives are the perfect accompaniment to a rustic loaf of bread.",
+  "ingredients": [
+    {"amount": "8 ounces", "name": "Gaeta or other mild black olives"},
+    {"amount": "1", "name": "lemon"},
+    {"amount": "1/2 cup", "name": "extra-virgin olive oil"},
+    {"amount": "2", "name": "garlic cloves, lightly crushed"},
+    {"amount": "1 teaspoon", "name": "fennel seeds"}
+  ],
+  "instructions": [
+    {"step": "1", "direction": "Rinse the olives under cold running water. Drain well and pat dry with paper towels."},
+    {"step": "2", "direction": "With a swivel-blade vegetable peeler, remove two 2-inch strips of the yellow zest of the lemon. Avoid digging into the white pith, or remove the pith with a knife."},
+    {"step": "3", "direction": "Combine all of the ingredients in a container and stir well. Cover and refrigerate, shaking the container occasionally, for 1 week. Serve at room temperature."}
+  ],
+  "variations": [
+    {"variation": "Add hot pepper for a spicy kick."},
+    {"variation": "Incorporate fresh herbs for added aroma."},
+    {"variation": "Include celery leaves or strips of sun-dried tomatoes for extra texture and flavor."}
+  ]
+}

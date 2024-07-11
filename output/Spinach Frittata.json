@@ -1,0 +1,36 @@
+
+  {
+    "id": "c07-rcu-0014",
+    "title": "Spinach Frittata",
+    "titleAlternative": "Frittata di Spinaci",
+    "yield": "Makes 4 servings",
+    "introduction": "This Spinach Frittata is a versatile and delicious dish that combines the freshness of green vegetables like spinach, escarole, or Swiss chard with rich eggs and cheese. Perfect for any meal, it can be complemented with sautéed mushrooms and sliced tomatoes for added flavor.",
+    "ingredients": [
+      "1 pound fresh spinach, trimmed",
+      "1/4 cup water",
+      "Salt",
+      "8 large eggs",
+      "1/4 cup heavy cream",
+      "1/2 cup freshly grated Parmigiano-Reggiano",
+      "2 tablespoons unsalted butter"
+    ],
+    "instructions": [
+      {
+        "step": 1,
+        "description": "Place the spinach, water, and salt to taste in a large pot. Cover and cook over medium heat until tender and wilted, about 5 minutes. Drain well. Let cool slightly. Place the spinach in a kitchen towel and squeeze it to extract the liquid."
+      },
+      {
+        "step": 2,
+        "description": "In a large bowl, beat the eggs, cream, cheese, and salt and pepper to taste. Stir in the spinach."
+      },
+      {
+        "step": 3,
+        "description": "In a 9-inch non-stick skillet, melt the butter over medium heat. Pour the mixture into the pan. Lift the edges of the frittata as it sets to allow the uncooked egg to reach the surface of the pan. Cook until the eggs are just set but still moist in the center and the frittata is lightly browned on the bottom, about 5 to 10 minutes."
+      },
+      {
+        "step": 4,
+        "description": "Slide the frittata onto a plate, then invert the skillet over the plate. Quickly flip both the plate and skillet so that the frittata is cooked side up. Cook until set in the center, about 5 minutes more. Or, if you prefer not to flip it, slide the skillet under the broiler for 3 to 5 minutes or until set to taste. Serve hot or at room temperature."
+      }
+    ],
+    "variations": []
+  }

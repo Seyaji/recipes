@@ -1,0 +1,43 @@
+
+  {
+    "id": "c07-rcu-0002",
+    "title": "Baked Asparagus with Eggs",
+    "titleAlternative": "Asparagi Milanese",
+    "yield": "Makes 2 to 4 servings",
+    "introduction": "Baked Asparagus with Eggs, also known as Asparagi Milanese, is a delightful and simple dish that combines fresh asparagus, eggs, and Parmigiano-Reggiano. This comforting meal is perfect for any time of the day and beautifully showcases the natural flavors of its ingredients.",
+    "ingredients": [
+      "1 pound asparagus",
+      "Salt",
+      "3 tablespoons unsalted butter",
+      "Freshly ground black pepper",
+      "1/2 cup freshly grated Parmigiano-Reggiano",
+      "4 large eggs"
+    ],
+    "instructions": [
+      {
+        "step": 1,
+        "description": "Trim off the base of the asparagus at the point where the stem turns from white to green. Bring about 2 inches of water to a boil in a large skillet. Add the asparagus and salt to taste. Cook until the asparagus bend slightly when you lift them from the stem end, about 4 to 8 minutes. Cooking time will depend on the thickness of the asparagus. Transfer the asparagus with tongs to a strainer. Drain, then pat them dry."
+      },
+      {
+        "step": 2,
+        "description": "Place a rack in the center of the oven. Preheat the oven to 450°F. Butter a large baking dish."
+      },
+      {
+        "step": 3,
+        "description": "Arrange the asparagus side by side in the baking dish, overlapping them slightly. Dot with 1 tablespoon of the butter, and sprinkle with pepper and the cheese."
+      },
+      {
+        "step": 4,
+        "description": "Bake 15 minutes or until the cheese is melted and golden."
+      },
+      {
+        "step": 5,
+        "description": "In a large nonstick skillet, melt the remaining 2 tablespoons butter over medium heat. When the butter foam subsides, break one egg into a cup, then carefully slide it into the pan. Repeat with the remaining eggs. Sprinkle with salt and cook until the eggs are set to taste, about 2 to 3 minutes."
+      },
+      {
+        "step": 6,
+        "description": "Divide the asparagus among the plates. Place the eggs on top. Spoon the pan juices over the top and serve hot."
+      }
+    ],
+    "variations": []
+  }

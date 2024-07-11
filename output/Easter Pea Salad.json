@@ -1,0 +1,32 @@
+
+    {
+        "id": "c11-rcu-0104",
+        "title": "Easter Pea Salad",
+        "titleAlternative": "Insalata di Pasqua",
+        "yield": "Makes 4 servings",
+        "introduction": "This delightful Easter Pea Salad brings a touch of elegance to your spring table. Originating from the famed Romeo Salta restaurant in New York City, this salad is a homage to northern Italian cuisine, combining fresh peas with prosciutto in a lemony olive oil dressing. An addition of a hard-cooked egg yolk creates a creamy texture that pairs perfectly with the richness of prosciutto. Traditionally featuring anchovies, you can opt out and add Swiss cheese for an extra layer of flavor.",
+        "ingredients": [
+            "2½ cups fresh shelled peas or 1 (10-ounce) package frozen peas",
+            "Salt",
+            "1 hard-cooked egg yolk",
+            "¼ cup olive oil",
+            "¼ cup lemon juice",
+            "Freshly ground black pepper",
+            "2 ounces sliced imported Italian prosciutto, cut crosswise into narrow strips"
+        ],
+        "instructions": [
+            {
+                "step": 1,
+                "description": "For either fresh or frozen peas, bring a medium saucepan of water to boiling. Add the peas and salt to taste. Cook until the peas are barely tender, about 3 minutes. Drain the peas. Cool them under cold running water. Blot the peas dry."
+            },
+            {
+                "step": 2,
+                "description": "In a serving bowl, mash the egg yolk with a fork. Whisk in the oil, lemon juice, and salt and pepper to taste. Add the peas and toss gently. Add the prosciutto strips and serve immediately."
+            }
+        ],
+        "variations": [
+            {
+                "variation": "For a vegetarian version, omit the prosciutto and add chopped Swiss or a similar cheese."
+            }
+        ]
+    }

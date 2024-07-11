@@ -1,0 +1,40 @@
+
+    {
+        "id": "c07-rcu-0018",
+        "title": "Little Omelets",
+        "titleAlternative": "Frittatine",
+        "yield": "Makes 6 servings",
+        "introduction": "Miniature omelets, often prepared on a griddle similar to pancakes, are perfect additions to an antipasto spread or as a delicious sandwich filling. Originating from Piedmont, this variation incorporates leeks and cabbage for a unique and flavorful twist.",
+        "ingredients": [
+            "About 1/4 cup olive oil",
+            "3 cups finely shredded cabbage",
+            "1 medium leek, trimmed and thinly sliced",
+            "6 large eggs",
+            "1/2 cup freshly grated Parmigiano-Reggiano",
+            "1/2 teaspoon salt",
+            "Freshly ground black pepper"
+        ],
+        "instructions": [
+            {
+                "step": 1,
+                "instruction": "In a 9-inch nonstick heavy skillet, heat 3 tablespoons oil over medium-low heat. Stir in the cabbage and leek. Cover the skillet and cook, stirring occasionally, until the cabbage is very tender, about 30 minutes. Let cool."
+            },
+            {
+                "step": 2,
+                "instruction": "In a medium bowl, beat together the eggs, cheese, and salt and pepper to taste. Stir in the vegetable mixture."
+            },
+            {
+                "step": 3,
+                "instruction": "Lightly brush a griddle or a large nonstick skillet with oil. Heat over medium heat."
+            },
+            {
+                "step": 4,
+                "instruction": "Stir the egg mixture and scoop by 1/4 cupful onto the griddle, spacing the omelets about 4 inches apart. Flatten slightly with the back of a spoon. Cook until the eggs are set and the omelets begin to brown on the bottom, about 2 minutes. With a pancake turner, flip the omelets and cook on the other side for about 1 minute more. Transfer the omelets to a plate."
+            },
+            {
+                "step": 5,
+                "instruction": "Cook the remaining omelets in the same way. Serve hot or at room temperature."
+            }
+        ],
+        "variations": []
+    }

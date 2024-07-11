@@ -1,0 +1,35 @@
+
+    {
+        "id": "c06-rcu-0030",
+        "title": "Buckwheat and Cornmeal Polenta",
+        "titleAlternative": "Polenta Taragna",
+        "yield": "Makes 4 to 6 servings",
+        "introduction": "Buckwheat and Cornmeal Polenta, also known as Polenta Taragna in Lombardy, Italy, combines the earthy flavor of buckwheat with the comforting texture of cornmeal. Traditionally finished with bitto cheese, fontina or Gruyère make excellent substitutes for a rich and creamy result.",
+        "ingredients": [
+            "5 cups cold water",
+            "4 tablespoons unsalted butter",
+            "1 cup coarsely ground yellow cornmeal, preferably stone-ground",
+            "1/2 cup buckwheat flour",
+            "Salt",
+            "4 ounces fontina or Gruyère"
+        ],
+        "instructions": [
+            {
+                "step": 1,
+                "description": "In a 2-quart heavy saucepan, bring 4 cups of the water and 2 tablespoons of the butter to a boil."
+            },
+            {
+                "step": 2,
+                "description": "In a medium bowl, stir together the cornmeal, buckwheat flour, 1/2 teaspoon salt, and remaining 1 cup water."
+            },
+            {
+                "step": 3,
+                "description": "Whisk the cornmeal mixture into the boiling water. Reduce the heat to very low. Cover and cook, stirring occasionally, about 40 minutes or until the polenta is thick and creamy. If it gets too thick, add a little more water as needed."
+            },
+            {
+                "step": 4,
+                "description": "Remove the polenta from the heat. Stir in the remaining 2 tablespoons butter and the cheese. Serve immediately."
+            }
+        ],
+        "variations": []
+    }

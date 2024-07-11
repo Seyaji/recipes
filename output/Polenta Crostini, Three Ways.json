@@ -1,0 +1,73 @@
+{
+  "id": "c06-rcu-0025",
+  "title": "Polenta Crostini, Three Ways",
+  "titleAlternative": "",
+  "yield": "1 recipe (about 5 cups) of hot cooked Polenta",
+  "introduction": "Polenta Crostini offers a delightful alternative to traditional bread-based crostini. With its versatile and crisped base, it's perfect for a variety of delicious toppings, making it a fantastic choice for appetizers, side dishes, or even a base for hearty meals.",
+  "ingredients": [
+    "1 recipe (about 5 cups) hot cooked Polenta"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "description": "Prepare the polenta. As soon as the polenta is cooked, spread it with a rubber spatula to about 1/2-inch thickness on a large baking sheet. Cover and chill until firm, at least 1 hour and up to 3 days, before using."
+    },
+    {
+      "step": 2,
+      "description": "When ready to cook, cut the polenta into squares or another shape with a knife, or cookie or biscuit cutter. The pieces can be baked, broiled, grilled, or fried."
+    }
+  ],
+  "variations": [
+    {
+      "type": "Baked Polenta Crostini",
+      "instructions": [
+        {
+          "step": 1,
+          "description": "Preheat the oven to 400°F. Oil a baking sheet and arrange the polenta slices on the sheet about 1/2 inch apart."
+        },
+        {
+          "step": 2,
+          "description": "Brush the tops with oil. Bake 30 minutes or until crisp and lightly golden."
+        }
+      ]
+    },
+    {
+      "type": "Grilled or Broiled Polenta Crostini",
+      "instructions": [
+        {
+          "step": 1,
+          "description": "Place a barbecue grill or broiler rack about 4 inches away from the heat source. Preheat the grill or broiler."
+        },
+        {
+          "step": 2,
+          "description": "Brush the polenta slices on both sides with olive oil. Place the pieces on the rack. Grill or broil, turning once, until crisp and golden, about 5 minutes. Turn the pieces and grill the other side about 5 minutes more."
+        }
+      ]
+    },
+    {
+      "type": "Fried Polenta Crostini",
+      "instructions": [
+        {
+          "step": 1,
+          "description": "Very lightly brush a thin film of corn or olive oil in a nonstick skillet. Heat the skillet over medium heat. Pat the polenta pieces dry."
+        },
+        {
+          "step": 2,
+          "description": "Cook them until golden, about 5 minutes. Turn the pieces and cook until browned on the other side, about 5 minutes more."
+        }
+      ]
+    }
+  ],
+  "toppings": [
+    "Crumbled gorgonzola cheese and toasted pine nuts",
+    "A spoonful of chopped marinated sun-dried tomatoes and a slice of mozzarella. Heat in the oven until the cheese is softened.",
+    "A slice of fontina and thin-sliced mushrooms. Heat in the oven until the cheese is softened.",
+    "Green or black olive puree",
+    "A slice of soppressata, prosciutto, or smoked salmon",
+    "A slice of mozzarella and an anchovy fillet",
+    "A spoonful of pesto",
+    "Roasted peppers and fresh basil",
+    "Soft fresh goat cheese, freshly ground black pepper, and watercress leaves",
+    "A spoonful of tomato sauce or ragù and shavings of Parmigiano-Reggiano"
+  ]
+}

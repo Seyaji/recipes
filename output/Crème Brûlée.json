@@ -1,0 +1,43 @@
+{
+  "id": "c13-rcu-0046",
+  "title": "Crème Brûlée",
+  "titleAlternative": "Crema Bruciata",
+  "yield": "Makes 4 servings",
+  "introduction": "A delicacy inspired by the famed Il Matriciano Restaurant in Rome, this crème brûlée recipe boasts a rich, velvety custard beneath a glassy, candied caramel surface. The blend of heavy cream and egg yolks creates a lush texture, while the caramel topping offers a satisfying, sugary crunch.",
+  "ingredients": [
+    {
+      "item": "heavy cream",
+      "quantity": "2 cups"
+    },
+    {
+      "item": "sugar",
+      "quantity": "3 tablespoons"
+    },
+    {
+      "item": "large egg yolks",
+      "quantity": "4"
+    },
+    {
+      "item": "pure vanilla extract",
+      "quantity": "1 teaspoon"
+    },
+    {
+      "item": "sugar (topping)",
+      "quantity": "1/2 cup"
+    },
+    {
+      "item": "water",
+      "quantity": "3 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Place a rack in the center of the oven. Preheat oven to 300°F. Have ready a 4-cup shallow baking dish and a wire cooling rack.",
+    "In a medium saucepan, combine the cream and sugar. Bring to a simmer over medium heat, stirring to dissolve the sugar.",
+    "In a large bowl, beat the egg yolks and vanilla. Whisking constantly, pour in the hot cream. Pour the mixture into the baking dish.",
+    "Place the baking dish in a larger roasting pan. Place the pan in the oven. Carefully pour hot water into the larger pan until it comes to a depth of 1 inch up the side of the baking dish. Bake 45 to 50 minutes, just until set but still slightly soft in the center. Transfer the baking dish to the rack to cool for 30 minutes. Cover and refrigerate.",
+    "Up to 12 hours before serving, combine the sugar and water in a small heavy saucepan. Cook over medium heat, stirring occasionally, until the sugar is completely dissolved, about 3 minutes. When the mixture begins to boil, stop stirring and cook until the syrup starts to brown around the edges. Then gently swirl the pan over the heat until the syrup is an even golden brown, about 2 minutes more.",
+    "With a paper towel, blot the surface of the chilled cream mixture in the baking dish. Carefully pour the hot syrup over the top. Return the dish to the refrigerator for 10 minutes until the caramel is firm.",
+    "To serve, crack the caramel with the side of a spoon. Scoop the cream and caramel into serving dishes."
+  ],
+  "variations": []
+}

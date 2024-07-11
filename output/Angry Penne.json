@@ -1,0 +1,56 @@
+{
+  "id": "c05-rcu-0038",
+  "title": "Angry Penne",
+  "titleAlternative": "Penne all'Arrabbiata",
+  "yield": "Makes 4 to 6 servings",
+  "introduction": "Penne all'Arrabbiata is named after its fiery, red-hot tomato sauce. This Roman-style pasta gets its 'angry' name from the heat of the crushed red pepper, balancing the fresh, rich flavors of tomatoes and basil. Typically, this dish is enjoyed without cheese, letting the bold, spicy sauce take center stage.",
+  "ingredients": [
+    {
+      "amount": "1/4 cup",
+      "ingredient": "olive oil"
+    },
+    {
+      "amount": "4",
+      "ingredient": "garlic cloves, lightly crushed"
+    },
+    {
+      "amount": "to taste",
+      "ingredient": "Crushed red pepper"
+    },
+    {
+      "amount": "2 pounds",
+      "ingredient": "fresh tomatoes, peeled, seeded, and chopped, or 1 (28-ounce) can imported Italian peeled tomatoes, drained and chopped"
+    },
+    {
+      "amount": "2",
+      "ingredient": "fresh basil leaves"
+    },
+    {
+      "amount": "to taste",
+      "ingredient": "Salt"
+    },
+    {
+      "amount": "1 pound",
+      "ingredient": "penne"
+    }
+  ],
+  "instructions": [
+    {
+      "step": "1",
+      "instruction": "Pour the oil into a skillet large enough to hold all of the pasta. Add the garlic and pepper and cook until the garlic is deeply golden, about 5 minutes. Remove the garlic."
+    },
+    {
+      "step": "2",
+      "instruction": "Add the tomatoes, basil, and salt to taste. Cook 15 to 20 minutes or until the sauce is thick."
+    },
+    {
+      "step": "3",
+      "instruction": "Bring at least 4 quarts of water to a boil in a large pot. Add 2 tablespoons of salt, then the pasta. Stir well. Cook over high heat, stirring frequently, until the pasta is al dente, tender yet still firm to the bite. Set aside some of the cooking water. Drain the pasta."
+    },
+    {
+      "step": "4",
+      "instruction": "Transfer the penne to the skillet and toss well over high heat. Add a little of the cooking water if the pasta seems dry. Serve immediately."
+    }
+  ],
+  "variations": []
+}
